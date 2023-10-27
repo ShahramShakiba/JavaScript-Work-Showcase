@@ -25,6 +25,7 @@ header {
   padding: 0 10px;
 }
 
+/*================ NavBar ================*/
 .navbar {
   display: flex;
   padding: 22px 0;
@@ -88,4 +89,139 @@ header {
   background: #ddd;
 }
 
-/* 7:27 */
+/*================ Form ================*/
+.form-popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  z-index: 10;
+  width: 100%;
+  /* opacity: 0; */
+  /* pointer-events: none; */
+  max-width: 720px;
+  background-color: #fff;
+  border: 2px solid #fff;
+  transform: translate(-50%, -70%);
+}
+
+.form-popup .close-btn {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  color: #878484;
+  cursor: pointer;
+}
+
+.form-popup .form-box {
+  display: flex;
+}
+
+.form-box .form-details {
+  width: 100%;
+  color: #fff;
+  max-width: 330px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.login .form-details {
+  background: url('images/login-img.jpg');
+  background-position: center;
+  background-size: cover;
+  padding: 0 40px;
+}
+
+.form-box .form-content {
+  width: 100%;
+  padding: 35px;
+}
+
+.form-box h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+form .input-field {
+  position: relative;
+  height: 50px;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.input-field input {
+  height: 100%;
+  width: 100%;
+  background: none;
+  outline: none;
+  font-size: 0.95rem;
+  padding: 0 15px;
+  border: 1px solid #717171;
+  border-radius: 3px;
+}
+
+.input-field input:focus {
+  border: 1px solid #00bcd4;
+}
+
+.input-field input:is(:focus, :valid) {
+  padding: 16px 15px 0;
+}
+
+.input-field label {
+  position: absolute;
+  top: 50%;
+  left: 15px;
+  transform: translateY(-50%);
+  color: #4a4646;
+  pointer-events: none;
+  transition: 0.2s ease;
+}
+
+.input-field input:is(:focus, :valid) ~ label {
+  color: #00bcd4;
+  font-size: 0.75rem;
+  transform: translateY(-120%);
+}
+
+.form-box a {
+  color: #00bcd4;
+  text-decoration: none;
+}
+
+.form-box a:hover {
+  text-decoration: underline;
+}
+
+.form-box .forget-pass-link {
+  display: inline-block;
+  margin-top: 14px;
+  font-size: 0.95rem;
+}
+
+form button {
+  width: 100%;
+  outline: none;
+  border: none;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 14px 0;
+  color: #fff;
+  border-radius: 3px;
+  cursor: pointer;
+  margin: 25px 0;
+  background: #00bcd4;
+  transition: 0.2s ease;
+}
+
+form button:hover {
+  background: #0097a7;
+}
+
+.form-box .bottom-link {
+  text-align: center;
+}
+
+/* 19:35 */
