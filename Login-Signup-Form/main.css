@@ -101,7 +101,7 @@ header {
   max-width: 720px;
   background-color: #fff;
   border: 2px solid #fff;
-  transform: translate(-50%, -70%);
+  transform: translate(-50%, -50%);
 }
 
 .form-popup .close-btn {
@@ -110,6 +110,20 @@ header {
   right: 12px;
   color: #878484;
   cursor: pointer;
+}
+
+.blur-bg-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  height: 100%;
+  width: 100%;
+  /* opacity: 0; */
+  pointer-events: none;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  transition: 0.1s ease;
 }
 
 .form-popup .form-box {
@@ -132,6 +146,13 @@ header {
   background-position: center;
   background-size: cover;
   padding: 0 40px;
+}
+
+.signup .form-details {
+  padding: 0 20px;
+  background: url('images/signup-img.jpg');
+  background-position: center;
+  background-size: cover;
 }
 
 .form-box .form-content {
@@ -195,9 +216,9 @@ form .input-field {
   text-decoration: underline;
 }
 
-.form-box .forget-pass-link {
-  display: inline-block;
-  margin-top: 14px;
+form :where(.forgot-pass-link, .policy-text) {
+  display: inline-flex;
+  margin-top: 13px;
   font-size: 0.95rem;
 }
 
@@ -224,4 +245,18 @@ form button:hover {
   text-align: center;
 }
 
-/* 19:35 */
+.form-popup .signup {
+  display: none;
+}
+
+.signup .policy-text {
+  display: flex;
+  margin-top: 14px;
+  align-items: center;
+}
+
+.signup .policy-text input {
+  width: 14px;
+  height: 14px;
+  margin-right: 7px;
+}
