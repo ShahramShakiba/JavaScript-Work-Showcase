@@ -318,6 +318,12 @@ form button:hover {
     padding-top: 60px;
     text-align: center;
     background: #fff;
+    transition: 0.2s ease;
+    z-index: 10;
+  }
+
+  .navbar .links.show-menu {
+    left: 0;
   }
 
   .navbar .links a {
@@ -325,6 +331,10 @@ form button:hover {
     display: inline-flex;
     margin: 20px 0;
     font-size: 1.2rem;
+  }
+
+  .navbar .links a:hover {
+    color: #00bcd4;
   }
 
   .navbar .login-btn {
