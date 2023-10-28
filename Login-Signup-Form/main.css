@@ -89,6 +89,23 @@ header {
   background: #ddd;
 }
 
+.navbar .menu-btn {
+  color: #fff;
+  cursor: pointer;
+  font-size: 1.5rem;
+  display: none;
+}
+
+.navbar .links .close-btn {
+  color: #000;
+  cursor: pointer;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  font-size: 1.5rem;
+  display: none;
+}
+
 /*================ Form ================*/
 .form-popup {
   position: fixed;
@@ -276,6 +293,48 @@ form button:hover {
   width: 14px;
   height: 14px;
   margin-right: 7px;
+}
+
+@media screen and (max-width: 950px) {
+  .navbar {
+    padding: 15px 0;
+  }
+
+  .navbar .logo img {
+    display: none;
+  }
+
+  .navbar .logo h2 {
+    font-size: 1.4rem;
+  }
+
+  .navbar .links {
+    position: fixed;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100vh;
+    display: block;
+    padding-top: 60px;
+    text-align: center;
+    background: #fff;
+  }
+
+  .navbar .links a {
+    color: #000;
+    display: inline-flex;
+    margin: 20px 0;
+    font-size: 1.2rem;
+  }
+
+  .navbar .login-btn {
+    font-size: 0.9rem;
+    padding: 7px 10px;
+  }
+
+  .navbar :is(.menu-btn, .links .close-btn) {
+    display: block;
+  }
 }
 
 @media screen and (max-width: 760px) {
