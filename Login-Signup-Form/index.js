@@ -6,6 +6,7 @@ const showPopupBtn = document.querySelector('.login-btn');
 const formPopup = document.querySelector('.form-popup');
 const hidePopupBtn = document.querySelector('.form-popup .close-btn');
 const loginSignupLink = document.querySelectorAll('.form-box .bottom-link a');
+const bg = document.querySelector('.blur-bg-overlay');
 
 //==>> Show Form popup
 showPopupBtn.addEventListener('click', () => {
@@ -14,6 +15,7 @@ showPopupBtn.addEventListener('click', () => {
 
 //==>> Hide Form popup
 hidePopupBtn.addEventListener('click', () => showPopupBtn.click());
+bg.addEventListener('click', () => showPopupBtn.click());
 
 loginSignupLink.forEach((link) => {
   link.addEventListener('click', (e) => {
