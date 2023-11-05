@@ -1,3 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
 .background {
   z-index: -1;
+  background-size: cover;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),
+    url('./image/Person.png');
+  filter: blur(6px);
+}
+
+.side-column {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url('./image/Person.png');
+  background-size: cover;
+  background-position: 50%;
 }
