@@ -16,10 +16,33 @@ const validateForm = (formSelector) => {
     const errorIcon = formGroup.querySelector('.error-icon');
     const successIcon = formGroup.querySelector('.success-icon');
 
+    //clearing the error message: we may get multiple validation problem for each of the inputs
+    let formGroupError = false;
+
     for (const option of validationOptions) {
       if (input.hasAttribute(option.attribute) && !option.isValid(input)) {
         errorContainer.textContent = option.errorMessage(input, label);
+
+        //add some style
+        input.classList.add('border-red-700');
+        input.classList.remove('border-green-700');
+
+        successIcon.classList.add('hidden');
+        errorIcon.classList.remove('hidden');
+
+        formGroupError = true;
       }
+    }
+
+    //clear the error message
+    if (!formGroupError) {
+      errorContainer.textContent = '';
+
+      input.classList.add('border-green-700');
+      input.classList.remove('border-red-700');
+
+      successIcon.classList.remove('hidden');
+      errorIcon.classList.add('hidden');
     }
   };
 
