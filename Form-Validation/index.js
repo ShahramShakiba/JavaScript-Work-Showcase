@@ -3,6 +3,30 @@ const validateForm = (formSelector) => {
 
   const validationOptions = [
     {
+      attribute: 'minlength',
+
+      isValid: (input) =>
+        input.value && input.value.length >= parseInt(input.minLength, 10),
+
+      errorMessage: (input, label) =>
+        `${label.textContent} needs to be at least ${input.minLength} characters!`,
+    },
+
+    {
+      attribute: 'custommaxlength',
+
+      isValid: (input) =>
+        input.value &&
+        input.value.length <=
+          parseInt(input.getAttribute('custommaxlength'), 10),
+
+      errorMessage: (input, label) =>
+        `${label.textContent} needs to be less than ${input.getAttribute(
+          'custommaxlength'
+        )} characters!`,
+    },
+
+    {
       attribute: 'required',
       isValid: (input) => input.value.trim() !== '',
       errorMessage: (input, label) => `${label.textContent} is required!`,
