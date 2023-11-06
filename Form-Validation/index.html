@@ -68,6 +68,8 @@
             <label for="firstName">First Name</label>
             <div class="flex items-center">
               <input
+                required
+                minlength="2"
                 type="text"
                 id="firstName"
                 class="w-full border-b-2 border-black outline-none py-2"
@@ -152,7 +154,10 @@
           </div>
 
           <!-------Button------->
-          <button type="submit" class="bg-green-400 px-8 py-2 mt-4 w-full rounded-full text-white shadow-lg">
+          <button
+            type="submit"
+            class="bg-green-400 px-8 py-2 mt-4 w-full rounded-full text-white shadow-lg"
+          >
             Register
           </button>
         </form>
