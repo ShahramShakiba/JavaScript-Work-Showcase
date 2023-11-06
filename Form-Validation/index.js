@@ -103,8 +103,15 @@ const validateForm = (formSelector) => {
     }
   };
 
-  //disable HTML validation
+  // disable HTML validation
   formElement.setAttribute('novalidate', '');
+
+  // trigger blur-event when user navigate from one input to another
+  Array.from(formElement.elements).forEach((element) => {
+    element.addEventListener('blur', (event) => {
+      validateSingleFormGroup(event.srcElement.parentElement.parentElement);
+    });
+  });
 
   //prevent page loading and form submit
   formElement.addEventListener('submit', (e) => {
