@@ -32,7 +32,7 @@
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum earum
           cupiditate voluptates eligendi?
         </p>
-        <p class="text-white my-8 font-bold">Register with social media</p>
+        <p class="text-white my-8 font-bold">Login with social media</p>
 
         <!-- social-media -->
         <div class="flex gap-8">
@@ -52,8 +52,111 @@
         </div>
       </div>
 
-      <!--========== FORM ==========-->
-      <div class="w-1/2 p-16 bg-white"></div>
+      <!--============ FORM-Section ============-->
+      <div class="w-1/2 p-16 bg-white">
+        <!-- Header -->
+        <h2 class="text-4xl font-bold">Register</h2>
+        <p class="my-8">
+          Already have an account?
+          <a class="text-blue-700" href="#">Login here.</a>
+        </p>
+
+        <!--======FORM======-->
+        <form id="registrationForm">
+          <!----name---->
+          <div class="formGroup flex flex-col my-4">
+            <label for="firstName">First Name</label>
+            <div class="flex items-center">
+              <input
+                type="text"
+                id="firstName"
+                class="w-full border-b-2 border-black outline-none py-2"
+              />
+
+              <!--show error/success icon-->
+              <span class="error-icon hidden -ml-6 text-red-700">
+                <i class="fa-solid fa-circle-exclamation"></i>
+              </span>
+              <span class="success-icon hidden -ml-6 text-green-700">
+                <i class="fa-solid fa-circle-check"></i>
+              </span>
+            </div>
+
+            <div class="error text-red-700 py-2"></div>
+          </div>
+
+          <!----email---->
+          <div class="formGroup flex flex-col my-4">
+            <label for="email">Email</label>
+            <div class="flex items-center">
+              <input
+                type="email"
+                id="email"
+                class="w-full border-b-2 border-black outline-none py-2"
+              />
+
+              <!--show error/success icon-->
+              <span class="error-icon hidden -ml-6 text-red-700">
+                <i class="fa-solid fa-circle-exclamation"></i>
+              </span>
+              <span class="success-icon hidden -ml-6 text-green-700">
+                <i class="fa-solid fa-circle-check"></i>
+              </span>
+            </div>
+
+            <div class="error text-red-700 py-2"></div>
+          </div>
+
+          <!----password---->
+          <div class="formGroup flex flex-col my-4">
+            <label for="password">Password</label>
+            <div class="flex items-center">
+              <input
+                type="password"
+                id="password"
+                class="w-full border-b-2 border-black outline-none py-2"
+              />
+
+              <!--show error/success icon-->
+              <span class="error-icon hidden -ml-6 text-red-700">
+                <i class="fa-solid fa-circle-exclamation"></i>
+              </span>
+              <span class="success-icon hidden -ml-6 text-green-700">
+                <i class="fa-solid fa-circle-check"></i>
+              </span>
+            </div>
+
+            <div class="error text-red-700 py-2"></div>
+          </div>
+
+          <!----confirm-password---->
+          <div class="formGroup flex flex-col my-4">
+            <label for="confirmPassword">Confirm Password</label>
+            <div class="flex items-center">
+              <input
+                type="password"
+                id="confirmPassword"
+                class="w-full border-b-2 border-black outline-none py-2"
+              />
+
+              <!--show error/success icon-->
+              <span class="error-icon hidden -ml-6 text-red-700">
+                <i class="fa-solid fa-circle-exclamation"></i>
+              </span>
+              <span class="success-icon hidden -ml-6 text-green-700">
+                <i class="fa-solid fa-circle-check"></i>
+              </span>
+            </div>
+
+            <div class="error text-red-700 py-2"></div>
+          </div>
+
+          <!-------Button------->
+          <button type="submit" class="bg-green-400 px-8 py-2 mt-4 w-full rounded-full text-white shadow-lg">
+            Register
+          </button>
+        </form>
+      </div>
     </div>
 
     <script src="index.js"></script>
