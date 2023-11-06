@@ -26,6 +26,28 @@ const validateForm = (formSelector) => {
         )} characters!`,
     },
 
+    // Password
+    {
+      attribute: 'match',
+      isValid: (input) => {
+        const matchSelector = input.getAttribute('match');
+        const matchedElement = formElement.querySelector(`#${matchSelector}`);
+
+        return (
+          matchedElement && matchedElement.value.trim() === input.value.trim()
+        );
+      },
+
+      errorMessage: (input, label) => {
+        const matchSelector = input.getAttribute('match');
+        const matchedElement = formElement.querySelector(`#${matchSelector}`);
+        const matchedLabel =
+          matchedElement.parentElement.parentElement.querySelector('label');
+
+        return `${label.textContent} should match ${matchedLabel.textContent}`;
+      },
+    },
+
     // Email
     {
       attribute: 'pattern',
