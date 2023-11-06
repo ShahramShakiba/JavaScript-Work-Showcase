@@ -94,10 +94,13 @@
             <div class="flex items-center">
               <input
                 required
+                pattern="^(.+)@(.+)$"
                 type="email"
                 id="email"
                 class="w-full border-b-2 border-black outline-none py-2"
               />
+              <!-- pattern="^(.+)@(.+)$"
+                   ( any character and then @) and then (we get any character and then that's the end of the string) -->
 
               <!--show error/success icon-->
               <span class="error-icon hidden -ml-6 text-red-700">

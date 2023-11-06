@@ -26,6 +26,17 @@ const validateForm = (formSelector) => {
         )} characters!`,
     },
 
+    // Email
+    {
+      attribute: 'pattern',
+      isValid: (input) => {
+        // RegExp => regular expression
+        const patternRegex = new RegExp(input.pattern);
+        return patternRegex.test(input.value);
+      },
+      errorMessage: (input, label) => `Not a valid ${label.textContent}`,
+    },
+
     {
       attribute: 'required',
       isValid: (input) => input.value.trim() !== '',
