@@ -15,9 +15,9 @@ const handleStarClick = (index1) => {
   });
 };
 
-const handleStarHover = (index) => {
+const handleStarHover = (index1) => {
   stars.forEach((star, i) => {
-    if (i <= index) {
+    if (i <= index1) {
       star.classList.add('hover');
     } else {
       star.classList.remove('hover');
