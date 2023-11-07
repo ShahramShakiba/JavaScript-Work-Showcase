@@ -12,6 +12,8 @@
 ### 💻 Custom Form Validation  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  />  <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  /> <img src="https://skillicons.dev/icons?i=tailwind"  height="40" width="22" alt="tailwindcss logo"  />
 - In this project, I create a set of functions which can be used to validate a form using the HTML validation attributes that, by default, the browser uses to trigger its own validation.
 
+https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/f266cebc-9e21-4a36-be6b-416559fda8ed
+
 
    <br/> 
 
