@@ -25,11 +25,7 @@ const initSortableList = (e) => {
   });
 
   // Inserting the dragging item before the found sibling
-  if (nextSibling) {
-    sortableList.insertBefore(draggingItem, nextSibling);
-  } else {
-    sortableList.appendChild(draggingItem);
-  }
+  sortableList.insertBefore(draggingItem, nextSibling);
 };
 
 sortableList.addEventListener('dragover', initSortableList);
