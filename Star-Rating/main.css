@@ -28,7 +28,7 @@ body {
 
 .rating-box header {
   font-size: 22px;
-  color: #dadada;
+  color: #c5c4c4;
   font-weight: 500;
   margin-bottom: 20px;
   text-align: center;
@@ -37,7 +37,8 @@ body {
 .rating-box .stars {
   display: flex;
   align-items: center;
-  gap: 25px;
+  justify-content: center;
+  gap: 2px;
 }
 
 .stars i {
@@ -48,5 +49,9 @@ body {
 }
 
 .stars i.active {
+  color: #ff9c1a;
+}
+
+.stars .hover {
   color: #ff9c1a;
 }
