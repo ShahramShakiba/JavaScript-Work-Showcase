@@ -5,6 +5,7 @@
 
 >  _List of projects :_ <br/>
 + `  Custom Form Validation  `
++ `  Drag and Drop Sortable List  `
 + `  Login & Registration Form  `
 + `  Text Typing Effect  `
 
@@ -19,7 +20,18 @@ https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/f266cebc-9e21-4
 
  ***
 
- 
+### 💻 Drag and Drop Sortable List  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+- Drag and drop sortable lists are a widely used UI element allowing users to reorder items by dragging and dropping them on a desired position.
+- This functionality can be found in many web applications, like task managers and e-commerce websites.
+
+https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/dffa5db1-2711-41da-b0b0-eb7cf0151ac0
+
+
+
+  <br/> 
+
+ ***
+
 ### 💻 Login & Registration Form  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
 - In this project, I craft a website’s homepage that has a Navigation-bar and a Login-button. When you click on the button, a login form will popup with a cool blurred background effect.<br/> 
 - The form has an image on the left and input fields on the right side. If you want to sign up instead, simply click on the sign-up link and you’ll be taken to the registration form.
