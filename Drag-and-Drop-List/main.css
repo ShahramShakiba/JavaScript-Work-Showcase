@@ -20,6 +20,7 @@ body {
 /*================ MAIN ================*/
 .sortable-list {
   width: 425px;
+  padding: 25px;
   background-color: #fff;
   border-radius: 7px;
   padding: 30px 25px 20px;
@@ -58,14 +59,15 @@ body {
   font-size: 1.13rem;
 }
 
-.item i {
-  color: #474747;
+.sortable-list .item i {
+  color: #5f5f5fad;
+  font-size: 1.5rem;
 }
 
-/* .item.dragging {
+.item.dragging {
   opacity: 0.6;
 }
 
 .item.dragging :where(.details, i) {
   opacity: 0;
-} */
+}
