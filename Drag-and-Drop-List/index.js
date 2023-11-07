@@ -30,3 +30,25 @@ const initSortableList = (e) => {
 
 sortableList.addEventListener('dragover', initSortableList);
 sortableList.addEventListener('dragenter', (e) => e.preventDefault());
+
+
+/* Some Explanations : 
+
+- e.clientY =>> is a property of the event object "e" that represents the vertical position of the mouse cursor at the time of the event.
+
+- sibling.offsetTop =>> is the distance from the top of the sibling element to the top of its offset parent, i.e., the distance from the top of the container element.
+
+- sibling.offsetHeight =>> is the height of the sibling element, including vertical padding and borders.
+
+- sibling.offsetTop + sibling.offsetHeight / 2 =>> calculates the midpoint of the sibling element by adding half of its height to its distance from the top.
+
+- e.clientY <= sibling.offsetTop + sibling.offsetHeight / 2 =>> compares the vertical position of the mouse cursor (e.clientY) with the midpoint of each sibling element. If the cursor is above or at the midpoint, the condition evaluates to true.
+
+### Therefore, let nextSibling will be assigned the first sibling element where the mouse cursor is above or at its midpoint. 
+
+---------------------------------------------
+
+- sortableList.insertBefore() =>> is a method used to insert an element before a specified reference element. 
+It takes two arguments: the element to be inserted (draggingItem) and the reference element to insert before (nextSibling).
+
+*/
