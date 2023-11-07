@@ -1,4 +1,4 @@
-# 🚧 Under Maintenance  
+# 🚧 Work is in progress 
 
 ### Mini-Projects
 > These are a collection of small projects aimed at creating a suite of Web Design Tools. <br/>
