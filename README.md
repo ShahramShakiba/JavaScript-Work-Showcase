@@ -6,6 +6,7 @@
 >  _List of projects :_ <br/>
 + `  Custom Form Validation  `
 + `  Drag and Drop Sortable List  `
++ `  Animated Star Rating  `
 + `  Login & Registration Form  `
 + `  Text Typing Effect  `
 
@@ -26,6 +27,17 @@ https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/f266cebc-9e21-4
 
 https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/dffa5db1-2711-41da-b0b0-eb7cf0151ac0
 
+
+
+  <br/> 
+
+ ***
+
+ ### 💻 Animated Star Rating  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+- A star rating system consists of a set of stars that are displayed on a website or application, and users can select a certain number of stars to represent their rating.
+- It is widely used to allow users to provide feedback or to rate items such as products, movies, or restaurants.
+
+https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/7a6e0311-690d-4c19-91ca-a62abc74f0d8
 
 
   <br/> 
