@@ -9,12 +9,69 @@
   font-family: 'Poppins', sans-serif;
 }
 
-body{
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: #4070f4;
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #4070f4;
 }
 
 /*================ MAIN ================*/
+.container {
+  position: relative;
+  background-color: #fff;
+  max-width: 340px;
+  width: 100%;
+  padding: 20px;
+  border-radius: 6px;
+}
+
+.container .input-box {
+  /* background-color: antiquewhite; */
+  position: relative;
+  height: 50px;
+}
+
+.input-box input {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  outline: none;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  padding: 0 35px 0 15px;
+  transition: all 0.2s linear;
+}
+
+input:is(:focus, :valid) {
+  border-color: #4070f4;
+}
+
+.input-box :is(label, i) {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #999;
+}
+
+.input-box label {
+  left: 15px;
+  pointer-events: none;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+input:is(:focus, :valid) ~ label {
+  color: #4070f4;
+  top: 0;
+  font-size: 12px;
+  font-weight: 500;
+  background-color: #fff;
+}
+
+.input-box i {
+  right: 15px;
+  cursor: pointer;
+  font-size: 20px;
+}
