@@ -6,9 +6,9 @@
 >  _List of projects :_ <br/>
 + `  Custom Form Validation  ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 + `  Drag and Drop Sortable List  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
++ `  Popup Cookies Consent Box  `
 + `  Animated Star Rating  `
 + `  Show & Hide Password  `
-+ `  Popup Cookies Consent Box  `
 + `  Login & Registration Form  `
 + `  Text Typing Effect  `
 
@@ -34,11 +34,12 @@ https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/dffa5db1-2711-4
  ***
 <!--==================================================-->
 
- ### 💻 Animated Star Rating  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
-- A star rating system consists of a set of stars that are displayed on a website or application, and users can select a certain number of stars to represent their rating.
-- It is widely used to allow users to provide feedback or to rate items such as products, movies, or restaurants.
+### 💻 Popup Cookies Consent Box  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+- Cookies are text files that are sent to your browser by a website you visit.
+- They assist the website in remembering information about your visit, which can both make it simpler for you to return to the site and increase its usefulness to you.
 
-https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/7a6e0311-690d-4c19-91ca-a62abc74f0d8
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/60cd5386-646d-486f-8f20-9c2652361ac0
+
 
   <br/> 
 
@@ -56,15 +57,16 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/205e
  ***
 <!--==================================================-->
 
-### 💻 Popup Cookies Consent Box  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
-- Cookies are text files that are sent to your browser by a website you visit.
-- They assist the website in remembering information about your visit, which can both make it simpler for you to return to the site and increase its usefulness to you.
+ ### 💻 Animated Star Rating  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+- A star rating system consists of a set of stars that are displayed on a website or application, and users can select a certain number of stars to represent their rating.
+- It is widely used to allow users to provide feedback or to rate items such as products, movies, or restaurants.
 
-
+https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/7a6e0311-690d-4c19-91ca-a62abc74f0d8
 
   <br/> 
 
  ***
+
 <!--==================================================-->
 
 ### 💻 Login & Registration Form  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
