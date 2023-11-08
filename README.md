@@ -4,9 +4,10 @@
 > These are a collection of small projects aimed at creating a suite of Web Design Tools. <br/>
 
 >  _List of projects :_ <br/>
-+ `  Custom Form Validation  `
-+ `  Drag and Drop Sortable List  `
++ `  Custom Form Validation  ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
++ `  Drag and Drop Sortable List  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 + `  Animated Star Rating  `
++ `  Show & Hide Password  `
 + `  Login & Registration Form  `
 + `  Text Typing Effect  `
 
@@ -38,6 +39,17 @@ https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/dffa5db1-2711-4
 - It is widely used to allow users to provide feedback or to rate items such as products, movies, or restaurants.
 
 https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/7a6e0311-690d-4c19-91ca-a62abc74f0d8
+
+
+  <br/> 
+
+ ***
+
+### 💻 Show & Hide Password  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+- As a definition, password show and hide mean showing or hiding the letter of the passwords by clicking on the toggle button.
+- This type of feature is mostly added to the form for security purposes because many users do not want to show their passwords to those who are around them.
+
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/205e5d06-0409-4feb-b01d-c8578ca0d313
 
 
   <br/> 
