@@ -18,7 +18,7 @@ body {
 .wrapper {
   position: fixed;
   bottom: 50px;
-  /* right: -370px; */
+  right: -370px;
   max-width: 345px;
   width: 100%;
   background: #fff;
