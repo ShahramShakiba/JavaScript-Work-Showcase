@@ -68,6 +68,7 @@ input:is(:focus, :valid) ~ label {
   font-size: 12px;
   font-weight: 500;
   background-color: #fff;
+  padding-inline: 2px;
 }
 
 .input-box i {
