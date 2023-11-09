@@ -17,7 +17,8 @@
 ### 💻 Custom Form Validation  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  />  <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  /> <img src="https://skillicons.dev/icons?i=tailwind"  height="40" width="22" alt="tailwindcss logo"  />
 - In this project, I create a set of functions which can be used to validate a form using the HTML validation attributes that, by default, the browser uses to trigger its own validation.
 
-https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/f266cebc-9e21-4a36-be6b-416559fda8ed
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/b407b264-a9ea-46be-977b-14097022e400
+
 
    <br/> 
 
@@ -28,7 +29,8 @@ https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/f266cebc-9e21-4
 - Drag and drop sortable lists are a widely used UI element allowing users to reorder items by dragging and dropping them on a desired position.
 - This functionality can be found in many web applications, like task managers and e-commerce websites.
 
-https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/dffa5db1-2711-41da-b0b0-eb7cf0151ac0
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/5e6e184f-0f3f-409c-90b2-a2798067e05b
+
 
   <br/> 
 
@@ -39,7 +41,7 @@ https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/dffa5db1-2711-4
 - Cookies are text files that are sent to your browser by a website you visit.
 - They assist the website in remembering information about your visit, which can both make it simpler for you to return to the site and increase its usefulness to you.
 
-https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/60cd5386-646d-486f-8f20-9c2652361ac0
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/55e46c6a-742d-418f-943c-3ab02f4227cf
 
 
   <br/> 
@@ -51,7 +53,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/60cd
 - Toast Notification is the message box that appears from any side of the gadget screen, mainly from the right top side.
 - The message can be a warning message, error message, or some positive message.
 
-https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/a58e3463-4534-4c2e-b83f-9ce405197921
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/2b6bced2-a4f8-44ef-a91f-916e45613b28
 
 
   <br/> 
@@ -63,7 +65,8 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/a58e
 - As a definition, password show and hide mean showing or hiding the letter of the passwords by clicking on the toggle button.
 - This type of feature is mostly added to the form for security purposes because many users do not want to show their passwords to those who are around them.
 
-https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/205e5d06-0409-4feb-b01d-c8578ca0d313
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/4cb98fac-7d69-4de0-8065-8941b3f4bf9b
+
 
   <br/> 
 
@@ -74,7 +77,8 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/205e
 - A star rating system consists of a set of stars that are displayed on a website or application, and users can select a certain number of stars to represent their rating.
 - It is widely used to allow users to provide feedback or to rate items such as products, movies, or restaurants.
 
-https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/7a6e0311-690d-4c19-91ca-a62abc74f0d8
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/796ce81c-3bb2-4c1d-baa1-2d3a81f4c6eb
+
 
   <br/> 
 
@@ -86,7 +90,8 @@ https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/7a6e0311-690d-4
 - In this project, I craft a website’s homepage that has a Navigation-bar and a Login-button. When you click on the button, a login form will popup with a cool blurred background effect.<br/> 
 - The form has an image on the left and input fields on the right side. If you want to sign up instead, simply click on the sign-up link and you’ll be taken to the registration form.
 
-https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/166b845d-3cae-4cf9-b4b8-fce247813dc9
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/98ab1e77-36a0-4a0a-9a3a-0e5bc9fe5b5c
+
 
    <br/> 
    
@@ -97,7 +102,7 @@ https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/166b845d-3cae-4
 - In this typing animation, each letter of the word appears after the other, creating a typewriter effect.
 - There is also a blinking caret animation at the end of the word to make the effect more attractive.
 
-https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/d949b688-c537-4d9a-8b5d-709b62f2cfe3
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/d753a957-938c-4726-ad23-3c878a18eefc
 
 
 <br/><br/>
