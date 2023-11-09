@@ -5,6 +5,7 @@
 
 >  _List of projects :_ <br/>
 + `  Custom Form Validation  ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
++ `  Popup Share Modal UI Design  `
 + `  Drag and Drop Sortable List  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 + `  Popup Cookies Consent Box  `
 + `  Toast Notification with Progress Bar  `
@@ -15,12 +16,25 @@
 
 
 ### 💻 Custom Form Validation  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  />  <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  /> <img src="https://skillicons.dev/icons?i=tailwind"  height="40" width="22" alt="tailwindcss logo"  />
-- In this project, I create a set of functions which can be used to validate a form using the HTML validation attributes that, by default, the browser uses to trigger its own validation.
+-  In this project, I create a set of functions which can be used to validate a form using the HTML validation attributes that, by default, the browser uses to trigger its own validation.
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/b407b264-a9ea-46be-977b-14097022e400
 
 
    <br/> 
+
+ ***
+<!--==================================================-->
+
+### 💻 Popup Share Modal UI Design  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+- A modal window disables most of the page and requires users to focus on a specific window before continuing.
+- There is a view modal button, when you click on that button then the modal box appears with a popup animation.
+- In this share modal box, there are some social media icons with pretty cool hover animation and an input box to copy the link.
+
+
+
+
+  <br/> 
 
  ***
 <!--==================================================-->
