@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="Author" content="Shahram Shakiba" />
+    <!-- FontAwesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+
+    <link rel="stylesheet" href="main.css" />
+    <title>Toast Notification with Progress Bar</title>
+  </head>
+  <body>
+    <div class="toast">
+      <div class="toast-content">
+        <i class="fas fa-solid fa-check check"></i>
+
+        <div class="message">
+          <span class="text text-1">Success</span>
+          <span class="text text-2">Your changes has been saved</span>
+        </div>
+      </div>
+
+      <i class="fa-solid fa-xmark close"></i>
+
+      <div class="progress"></div>
+    </div>
+
+    <button>Show Toast</button>
+
+    <script src="index.js"></script>
+  </body>
+</html>
