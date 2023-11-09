@@ -48,13 +48,13 @@ button {
   background: #fff;
   padding: 25px;
   border-radius: 15px;
-  /* top: -150%; */
+  top: -150%;
   max-width: 380px;
   width: 100%;
-  /* opacity: 0; */
-  /* pointer-events: none; */
+  opacity: 0;
+  pointer-events: none;
   box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
-  /* transform: translate(-50%, -50%) scale(1.2); */
+  transform: translate(-50%, -50%) scale(1.2);
   transition: top 0s 0.2s ease-in-out, opacity 0.2s 0s ease-in-out,
     transform 0.2s 0s ease-in-out;
 }
@@ -65,7 +65,7 @@ button {
   pointer-events: auto;
   transform: translate(-50%, -50%) scale(1);
   transition: top 0s 0s ease-in-out, opacity 0.2s 0s ease-in-out,
-    transform 0.2s 0s ease-in-out;
+    transform 0.3s 0s ease-in-out;
 }
 
 .popup :is(header, .icons, .field) {
@@ -127,60 +127,60 @@ header .close:hover {
 }
 
 .icons a i {
-  transition: transform .3s ease-in-out;
+  transition: transform 0.3s ease-in-out;
 }
 
 .icons a:nth-child(1) {
-  color: #1877F2;
+  color: #1877f2;
   border-color: #b7d4fb;
 }
 
-.icons a:nth-child(1):hover{
-  background: #1877F2;
+.icons a:nth-child(1):hover {
+  background: #1877f2;
 }
 
-.icons a:nth-child(2){
-  color: #46C1F6;
+.icons a:nth-child(2) {
+  color: #46c1f6;
   border-color: #b6e7fc;
 }
 
-.icons a:nth-child(2):hover{
-  background: #46C1F6;
+.icons a:nth-child(2):hover {
+  background: #46c1f6;
 }
 
-.icons a:nth-child(3){
+.icons a:nth-child(3) {
   color: #e1306c;
   border-color: #f5bccf;
 }
 
-.icons a:nth-child(3):hover{
+.icons a:nth-child(3):hover {
   background: #e1306c;
 }
 
-.icons a:nth-child(4){
-  color: #25D366;
+.icons a:nth-child(4) {
+  color: #25d366;
   border-color: #bef4d2;
 }
 
-.icons a:nth-child(4):hover{
-  background: #25D366;
+.icons a:nth-child(4):hover {
+  background: #25d366;
 }
 
-.icons a:nth-child(5){
+.icons a:nth-child(5) {
   color: #0088cc;
   border-color: #b3e6ff;
 }
 
-.icons a:nth-child(5):hover{
+.icons a:nth-child(5):hover {
   background: #0088cc;
 }
 
-.icons a:hover{
+.icons a:hover {
   color: #fff;
   border-color: transparent;
 }
 
-.icons a:hover i{
+.icons a:hover i {
   transform: scale(1.2);
 }
 
@@ -202,7 +202,7 @@ header .close:hover {
   text-align: center;
 }
 
-.field.active i{
+.field.active i {
   color: #7d2ae8;
 }
 
@@ -220,7 +220,7 @@ header .close:hover {
   background: #7d2ae8;
 }
 
-.field button:hover{
+.field button:hover {
   background: #8d39fa;
 }
 
