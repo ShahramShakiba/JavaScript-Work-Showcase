@@ -5,10 +5,10 @@
 
 >  _List of projects :_ <br/>
 + `  Custom Form Validation  ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-+ `  Popup Share Modal UI Design  `
-+ `  Drag and Drop Sortable List  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
++ `  Popup Share Modal  `
++ `  Drag and Drop List  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 + `  Popup Cookies Consent Box  `
-+ `  Toast Notification with Progress Bar  `
++ `  Toast Notification  `
 + `  Animated Star Rating  `
 + `  Show & Hide Password  `
 + `  Login & Registration Form  `
@@ -26,20 +26,19 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/b407
  ***
 <!--==================================================-->
 
-### 💻 Popup Share Modal UI Design  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+### 💻 Popup Share Modal  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
 - A modal window disables most of the page and requires users to focus on a specific window before continuing.
 - There is a view modal button, when you click on that button then the modal box appears with a popup animation.
 - In this share modal box, there are some social media icons with pretty cool hover animation and an input box to copy the link.
 
-
-
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/8c98b8f0-bd6c-4e7d-9526-e1b483758c33
 
   <br/> 
 
  ***
 <!--==================================================-->
 
-### 💻 Drag and Drop Sortable List  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+### 💻 Drag and Drop List  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
 - Drag and drop sortable lists are a widely used UI element allowing users to reorder items by dragging and dropping them on a desired position.
 - This functionality can be found in many web applications, like task managers and e-commerce websites.
 
@@ -63,7 +62,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/55e4
  ***
  <!--==================================================-->
 
-### 💻 Toast Notification with Progress Bar  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+### 💻 Toast Notification  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
 - Toast Notification is the message box that appears from any side of the gadget screen, mainly from the right top side.
 - The message can be a warning message, error message, or some positive message.
 
