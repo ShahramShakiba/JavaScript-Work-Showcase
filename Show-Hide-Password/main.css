@@ -15,6 +15,8 @@ body {
   align-items: center;
   justify-content: center;
   background: #4070f4;
+  background: url(images/Shahram-logo.png) no-repeat;
+  background-size: 15rem;
 }
 
 /*================ MAIN ================*/

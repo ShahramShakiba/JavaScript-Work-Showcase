@@ -18,3 +18,9 @@ body {
   background-size: cover;
   background-position: 50%;
 }
+
+.logo {
+  background: #ffffff;
+  border-radius: 15px;
+  opacity: 0.8;
+}

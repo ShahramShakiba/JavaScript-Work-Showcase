@@ -43,8 +43,10 @@ header {
 }
 
 .navbar .logo img {
-  width: 35px;
-  border-radius: 50%;
+  width: 7rem;
+  height: 3rem;
+  background: #fff;
+  border-radius: 2rem;
 }
 
 .navbar .logo h2 {
@@ -80,7 +82,7 @@ header {
   font-size: 0.7rem;
   font-weight: 700;
   padding: 7px 10px;
-  border-radius: 5px;
+  border-radius: 3px;
   cursor: pointer;
   transition: 0.15s ease;
 }

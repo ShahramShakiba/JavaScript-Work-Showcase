@@ -35,7 +35,6 @@ h1 {
 h1 span {
   position: relative;
   color: #bd53ed;
-  
 }
 
 /* vertical-line */
@@ -59,4 +58,21 @@ h1 span::before {
 
 h1 span.stop-blinking::before {
   animation: none;
+}
+
+.logo {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  background: #ffffff;
+  border-radius: 50%;
+  opacity: 0.3;
+}
+.logo img {
+  width: 11rem;
+  height: 6rem;
+}
+
+.logo:hover {
+  opacity: 0.8;
 }
