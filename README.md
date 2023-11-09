@@ -90,7 +90,8 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/796c
 - In this project, I craft a website’s homepage that has a Navigation-bar and a Login-button. When you click on the button, a login form will popup with a cool blurred background effect.<br/> 
 - The form has an image on the left and input fields on the right side. If you want to sign up instead, simply click on the sign-up link and you’ll be taken to the registration form.
 
-https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/166b845d-3cae-4cf9-b4b8-fce247813dc9
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/98ab1e77-36a0-4a0a-9a3a-0e5bc9fe5b5c
+
 
    <br/> 
    
