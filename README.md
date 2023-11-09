@@ -7,6 +7,7 @@
 + `  Custom Form Validation  ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 + `  Drag and Drop Sortable List  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 + `  Popup Cookies Consent Box  `
++ `  Toast Notification with Progress Bar  `
 + `  Animated Star Rating  `
 + `  Show & Hide Password  `
 + `  Login & Registration Form  `
@@ -39,6 +40,18 @@ https://github.com/ShahramShakiba/Mini-Projects/assets/110089830/dffa5db1-2711-4
 - They assist the website in remembering information about your visit, which can both make it simpler for you to return to the site and increase its usefulness to you.
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/60cd5386-646d-486f-8f20-9c2652361ac0
+
+
+  <br/> 
+
+ ***
+ <!--==================================================-->
+
+### 💻 Toast Notification with Progress Bar  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+- Toast Notification is the message box that appears from any side of the gadget screen, mainly from the right top side.
+- The message can be a warning message, error message, or some positive message.
+
+
 
 
   <br/> 
