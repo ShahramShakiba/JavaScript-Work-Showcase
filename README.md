@@ -45,6 +45,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/4459
 - An OTP is more secure than a static password, especially a user-created password, which can be weak and/or reused across multiple accounts.
 - One of the most common uses of OTPs is the case where a user has forgotten their password, or had their account breached.
 
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/8d81a4f0-4612-4373-89e8-91ce58fa3890
 
 
   <br/> 
