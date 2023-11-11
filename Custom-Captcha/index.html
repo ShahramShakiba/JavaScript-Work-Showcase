@@ -23,6 +23,37 @@
     </div>
 
     <!--========== Main ==========-->
+    <div class="wrapper">
+      <header>Generate Captcha</header>
+
+      <!-- generate captcha -->
+      <div class="captcha-area">
+        <div class="captcha-img">
+          <img src="images/captcha-bg.png" alt="Captcha Background" />
+          <span class="captcha"></span>
+        </div>
+
+        <button class="reload-btn">
+          <i class="fas fa-redo-alt"></i>
+        </button>
+      </div>
+
+      <!-- captcha-input -->
+      <form action="#" class="input-area">
+        <input
+          type="text"
+          placeholder="Enter captcha"
+          maxlength="6"
+          spellcheck="false"
+          required
+        />
+
+        <button class="check-btn">Check</button>
+      </form>
+
+      <!-- status -->
+      <div class="status-text"></div>
+    </div>
 
     <script src="index.js"></script>
   </body>
