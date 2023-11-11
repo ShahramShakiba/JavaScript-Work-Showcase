@@ -107,7 +107,7 @@ body {
 }
 
 .captcha-area .reload-btn:hover i {
-  transform: rotate(30deg);
+  transform: rotate(15deg);
 }
 
 .wrapper .input-area {
