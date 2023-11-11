@@ -31,6 +31,8 @@ body {
   border-radius: 12px;
   row-gap: 20px;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  max-width: 355px;
+  width: 350px;
 }
 
 .container header {
@@ -93,6 +95,26 @@ form button.active {
 
 form button:hover {
   background: #0e4bf1;
+}
+
+.success-message {
+  display: block;
+  background-color: #4070f4;
+  color: #fff;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.error-message {
+  background-color: rgba(243, 96, 96, 0.733);
+  color: #fff;
+  padding: 10px;
+  margin-top: 10px;
+  font-size: 14px;
+  border-radius: 6px;
+
 }
 
 .logo {
