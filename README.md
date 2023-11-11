@@ -7,9 +7,9 @@
 + `  Custom Form Validation  ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 + `  Popup Share Modal  `
 + `  Drag and Drop List  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
++ `  Star Rating System  `
 + `  Popup Cookies Consent Box  `
 + `  Toast Notification  `
-+ `  Animated Star Rating  `
 + `  Show & Hide Password  `
 + `  Login & Registration Form  `
 + `  Text Typing Effect  `
@@ -24,8 +24,8 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/b407
    <br/> 
 
  ***
-<!--==================================================-->
-
+ 
+<!--==================== Popup Share Modal ==============================-->
 ### 💻 Popup Share Modal  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
 - A modal window disables most of the page and requires users to focus on a specific window before continuing.
 - There is a view modal button, when you click on that button then the modal box appears with a popup animation.
@@ -36,8 +36,8 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/8c98
   <br/> 
 
  ***
-<!--==================================================-->
-
+ 
+<!--=====================  Drag and Drop List =============================-->
 ### 💻 Drag and Drop List  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
 - Drag and drop sortable lists are a widely used UI element allowing users to reorder items by dragging and dropping them on a desired position.
 - This functionality can be found in many web applications, like task managers and e-commerce websites.
@@ -48,8 +48,20 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/5e6e
   <br/> 
 
  ***
-<!--==================================================-->
+ 
+<!--===================== Star Rating System =============================-->
+### 💻 Star Rating System  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+- A star rating system consists of a set of stars that are displayed on a website or application, and users can select a certain number of stars to represent their rating.
+- It is widely used to allow users to provide feedback or to rate items such as products, movies, or restaurants.
 
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/820007b3-2012-4dcd-9d87-f1f9f1c6306f
+
+
+  <br/> 
+
+ ***
+
+<!--=================== Popup Cookies Consent Box ===============================-->
 ### 💻 Popup Cookies Consent Box  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
 - Cookies are text files that are sent to your browser by a website you visit.
 - They assist the website in remembering information about your visit, which can both make it simpler for you to return to the site and increase its usefulness to you.
@@ -60,8 +72,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/55e4
   <br/> 
 
  ***
- <!--==================================================-->
-
+<!--======================= Toast Notification ===========================-->
 ### 💻 Toast Notification  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
 - Toast Notification is the message box that appears from any side of the gadget screen, mainly from the right top side.
 - The message can be a warning message, error message, or some positive message.
@@ -72,8 +83,8 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/2b6b
   <br/> 
 
  ***
-<!--==================================================-->
-
+ 
+<!--==================== Show & Hide Password ==============================-->
 ### 💻 Show & Hide Password  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
 - As a definition, password show and hide mean showing or hiding the letter of the passwords by clicking on the toggle button.
 - This type of feature is mostly added to the form for security purposes because many users do not want to show their passwords to those who are around them.
@@ -84,21 +95,8 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/4cb9
   <br/> 
 
  ***
-<!--==================================================-->
-
- ### 💻 Animated Star Rating  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
-- A star rating system consists of a set of stars that are displayed on a website or application, and users can select a certain number of stars to represent their rating.
-- It is widely used to allow users to provide feedback or to rate items such as products, movies, or restaurants.
-
-https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/796ce81c-3bb2-4c1d-baa1-2d3a81f4c6eb
-
-
-  <br/> 
-
- ***
-
-<!--==================================================-->
-
+ 
+<!--======================= Login & Registration Form ===========================-->
 ### 💻 Login & Registration Form  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
 - In this project, I craft a website’s homepage that has a Navigation-bar and a Login-button. When you click on the button, a login form will popup with a cool blurred background effect.<br/> 
 - The form has an image on the left and input fields on the right side. If you want to sign up instead, simply click on the sign-up link and you’ll be taken to the registration form.
@@ -109,8 +107,8 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/98ab
    <br/> 
    
  ***
-<!--==================================================-->
-
+ 
+<!--====================== Text Typing Effect ============================-->
 ### 💻 Text Typing Effect  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
 - In this typing animation, each letter of the word appears after the other, creating a typewriter effect.
 - There is also a blinking caret animation at the end of the word to make the effect more attractive.
@@ -119,8 +117,9 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/d753
 
 
 <br/><br/>
-<!--==================================================-->
 
+
+<!--======================= Social Media ===========================-->
  ## Find me around the Web :
   <a href="https://www.linkedin.com/in/shahramshakiba/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
