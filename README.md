@@ -5,6 +5,7 @@
 
 >  _List of projects :_ <br/>
 + `  Custom Form Validation  ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
++ `  Custom Captcha Generator  `
 + `  Popup Share Modal  `
 + `  Drag and Drop List  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 + `  Star Rating System  `
@@ -24,6 +25,19 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/b407
    <br/> 
 
  ***
+
+<!--=====================  Custom Captcha Generator =============================-->
+### 💻 Custom Captcha Generator  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+- Captcha stands for “Completely Automated Public Turing test to tell Computers and Humans Apart”.
+- Captcha is a great way to protect privacy and provides a web experience free from the usability issues that SPAM creates. 
+- Many web services, including Google, use CAPTCHA to help prevent unauthorized account entry.
+
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/4459d1a1-7ba9-4372-8dc1-004ef8d432b6
+
+  <br/> 
+
+ ***
+ 
  
 <!--==================== Popup Share Modal ==============================-->
 ### 💻 Popup Share Modal  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
@@ -48,7 +62,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/5e6e
   <br/> 
 
  ***
- 
+
 <!--===================== Star Rating System =============================-->
 ### 💻 Star Rating System  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
 - A star rating system consists of a set of stars that are displayed on a website or application, and users can select a certain number of stars to represent their rating.
