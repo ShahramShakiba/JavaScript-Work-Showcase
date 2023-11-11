@@ -84,23 +84,23 @@ input#rate-5:checked ~ label {
 }
 
 #rate-1:checked ~ form header::before {
-  content: 'I just hate it ';
+  content: 'I hate it 🤕';
 }
 
 #rate-2:checked ~ form header:before {
-  content: "I don't like it ";
+  content: "I don't like it 😒";
 }
 
 #rate-3:checked ~ form header:before {
-  content: 'It is awesome ';
+  content: 'I like it 😁';
 }
 
 #rate-4:checked ~ form header:before {
-  content: 'I just like it ';
+  content: 'It is awesome 😎';
 }
 
 #rate-5:checked ~ form header:before {
-  content: 'I just love it ';
+  content: 'I love it 😍';
 }
 
 .container form {
