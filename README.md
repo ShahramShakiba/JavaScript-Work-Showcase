@@ -54,6 +54,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/5e6e
 - A star rating system consists of a set of stars that are displayed on a website or application, and users can select a certain number of stars to represent their rating.
 - It is widely used to allow users to provide feedback or to rate items such as products, movies, or restaurants.
 
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/820007b3-2012-4dcd-9d87-f1f9f1c6306f
 
 
   <br/> 
