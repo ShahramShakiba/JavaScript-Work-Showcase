@@ -6,6 +6,7 @@
 >  _List of projects :_ <br/>
 + `  Custom Form Validation  ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 + `  Custom Captcha Generator  `
++ `  OTP Verification Form  `
 + `  Popup Share Modal  `
 + `  Drag and Drop List  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 + `  Star Rating System  `
@@ -37,7 +38,18 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/4459
   <br/> 
 
  ***
- 
+
+ <!--=====================  OTP Verification Form =============================-->
+### 💻 OTP Verification Form  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+- One-time password (OTP) systems provide a mechanism for logging on to a network or service using a unique password that can only be used once, as the name suggests.
+- An OTP is more secure than a static password, especially a user-created password, which can be weak and/or reused across multiple accounts.
+- One of the most common uses of OTPs is the case where a user has forgotten their password, or had their account breached.
+
+
+
+  <br/> 
+
+ ***
  
 <!--==================== Popup Share Modal ==============================-->
 ### 💻 Popup Share Modal  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
