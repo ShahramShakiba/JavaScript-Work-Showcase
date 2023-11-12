@@ -7,6 +7,7 @@
 + `  Custom Form Validation  ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 + `  Custom Captcha Generator  `
 + `  OTP Verification Form  `
++ `  Password Validation  `
 + `  Popup Share Modal  `
 + `  Drag and Drop List  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 + `  Star Rating System  `
@@ -40,7 +41,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/c1b4
 
  ***
 
- <!--=====================  OTP Verification Form =============================-->
+<!--=====================  OTP Verification Form =============================-->
 ### 💻 OTP Verification Form  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
 - One-time password (OTP) systems provide a mechanism for logging on to a network or service using a unique password that can only be used once, as the name suggests.
 - An OTP is more secure than a static password, especially a user-created password, which can be weak and/or reused across multiple accounts.
@@ -48,6 +49,18 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/c1b4
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/8d81a4f0-4612-4373-89e8-91ce58fa3890
 
+
+  <br/> 
+
+ ***
+
+ <!--=====================  Password Validation =============================-->
+### 💻 Password Validation  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+- In today’s digital world, it is important to create strong and secure passwords that are difficult to guess or hack.
+- This is where password validation or strength checks come into play.
+- By implementing this password validation feature, website owners can ensure that users create strong passwords that are less likely to be compromised.
+
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/136593a7-6126-48d8-95b7-c4a3270834fc
 
   <br/> 
 
