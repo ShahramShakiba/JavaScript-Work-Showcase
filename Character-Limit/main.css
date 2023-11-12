@@ -58,9 +58,11 @@ body {
 
 .input-box .title {
   position: absolute;
-  top: 38px;
+  top: 20px;
   left: 45px;
   color: #007bff;
+  background-color: #fff;
+  padding-inline: 2px;
 }
 
 .input-box.error .title{
