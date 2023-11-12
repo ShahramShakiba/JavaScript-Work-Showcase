@@ -14,7 +14,7 @@
 + `  Popup Cookies Consent Box  `
 + `  Toast Notification  `
 + `  Show & Hide Password  `
-+ `  Input Character Limit  `
++ `  Character Limit Input  `
 + `  Login & Registration Form  `
 + `  Text Typing Effect  `
 
@@ -139,12 +139,12 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/4cb9
  ***
  
 <!--======================= Input Character Limit ===========================-->
-### 💻 Input Character Limit  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+### 💻 Character Limit Input  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
 - Character limits exist to keep things organized, and to prevent too much information from being included in one message.
 - Social media platforms impose character limits for different reasons, but most of them are similar regardless of the site and its users:
 - Keeps content clear and brief: By sticking to character limits, users are encouraged to get their point across as quickly and clearly as possible.
 
-
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/3c5e36f0-21d3-4fca-b6b4-0be32ddf1098
 
 
    <br/> 
