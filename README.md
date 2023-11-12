@@ -60,8 +60,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/8d81
 - This is where password validation or strength checks come into play.
 - By implementing this password validation feature, website owners can ensure that users create strong passwords that are less likely to be compromised.
 
-
-
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/136593a7-6126-48d8-95b7-c4a3270834fc
 
   <br/> 
 
