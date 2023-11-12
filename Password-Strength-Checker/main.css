@@ -9,44 +9,34 @@
   font-family: 'Poppins', sans-serif;
 }
 
-:root {
-  --primary: #4d23ff50;
-  --input-bg: #19105f;
-  --text-color: #fff;
-}
-
 body {
   min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #4070f4;
+  background: #ececec;
 }
 
 /*================ MAIN ================*/
 .password-checker {
   width: 50vw;
-  background-color: var(--primary);
-  padding: 2rem;
+  background-color: #0b2669;
+  padding: 2rem 1.5rem;
   border-radius: 1rem;
-  border: 0.1rem solid transparent;
-  cursor: pointer;
+  border: 2px solid transparent;
   transition: 0.4s ease-in-out;
 }
 
-.password-checker:hover {
-  transform: scale(1.05);
-}
-
 h1 {
-  font: 800 2rem 'Poppins', sans-serif;
-  letter-spacing: 0.1rem;
+  font: 800 1rem 'Poppins', sans-serif;
   text-transform: uppercase;
+  color: #868686;
+  margin-bottom: 1rem;
+  text-align: center;
 }
 .input-group {
   position: relative;
   width: 100%;
-  margin-top: 2rem;
 }
 
 .input-group::before {
@@ -60,15 +50,20 @@ h1 {
 input#password {
   width: 100%;
   padding: 1rem 1rem 1rem 2.8rem;
-  background-color: var(--input-bg);
-  color: var(--text-color);
+  background-color: rgba(96, 91, 139, 0.466);
+  color: #fff;
   font-size: 1rem;
   border: none;
   border-radius: 0.5rem;
 }
 
+#password::placeholder {
+  color: #fff;
+}
+
 h5 {
-  margin: 3rem 0 1.5rem;
+  margin: 1.5rem 0 0.7rem;
+  color: #c5c5c5;
 }
 
 .progress {

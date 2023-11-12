@@ -50,11 +50,11 @@ const checkPasswordStrength = (password) => {
 
     case 2:
       {
-        passwordChecker.style.borderColor = 'orangered';
+        passwordChecker.style.borderColor = 'coral';
 
         progressBar.style.cssText = `width: ${
           (strength / 5) * 100
-        }%; background-color: orangered;`;
+        }%; background-color: coral;`;
       }
       break;
 
