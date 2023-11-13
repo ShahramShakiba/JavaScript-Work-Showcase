@@ -10,12 +10,12 @@
 + `  Password Validation  `
 + `  Popup Share Modal  `
 + `  Drag and Drop List  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
++ `  Toggle Light/Dark Mode  `
 + `  Star Rating System  `
 + `  Popup Cookies Consent Box  `
 + `  Toast Notification  `
 + `  Show & Hide Password  `
 + `  Character Limit  `
-+ `  Toggle Light/Dark Mode  `
 + `  Login & Registration Form  `
 + `  Text Typing Effect  `
 
@@ -92,6 +92,17 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/5e6e
 
  ***
 
+ <!--======================= Toggle Light/Dark Mode ===========================-->
+### 💻 Toggle Light/Dark Mode  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+- The dark mode is ideal for reducing eye strain in low-light conditions and conserving battery power.
+- It might also enhance focus and productivity, particularly for late-night workers. On the other hand, the light mode can improve reading comprehension, speed and might even foster creativity.
+
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/237faa87-4c80-44ee-87d4-4f0c4490a369
+
+   <br/> 
+   
+ ***
+
 <!--===================== Star Rating System =============================-->
 ### 💻 Star Rating System  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
 - A star rating system consists of a set of stars that are displayed on a website or application, and users can select a certain number of stars to represent their rating.
@@ -146,18 +157,6 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/4cb9
 - Keeps content clear and brief: By sticking to character limits, users are encouraged to get their point across as quickly and clearly as possible.
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/3c5e36f0-21d3-4fca-b6b4-0be32ddf1098
-
-
-   <br/> 
-   
- ***
-
-<!--======================= Toggle Light/Dark Mode ===========================-->
-### 💻 Toggle Light/Dark Mode  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
-- The dark mode is ideal for reducing eye strain in low-light conditions and conserving battery power.
-- It might also enhance focus and productivity, particularly for late-night workers. On the other hand, the light mode can improve reading comprehension, speed and might even foster creativity.
-
-
 
 
    <br/> 
