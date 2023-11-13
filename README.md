@@ -10,6 +10,7 @@
 + `  Password Validation  `
 + `  Popup Share Modal  `
 + `  Drag and Drop List  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
++ `  Toggle Light/Dark Mode  `
 + `  Star Rating System  `
 + `  Popup Cookies Consent Box  `
 + `  Toast Notification  `
@@ -91,6 +92,17 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/5e6e
 
  ***
 
+ <!--======================= Toggle Light/Dark Mode ===========================-->
+### 💻 Toggle Light/Dark Mode  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+- The dark mode is ideal for reducing eye strain in low-light conditions and conserving battery power.
+- It might also enhance focus and productivity, particularly for late-night workers. On the other hand, the light mode can improve reading comprehension, speed and might even foster creativity.
+
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/237faa87-4c80-44ee-87d4-4f0c4490a369
+
+   <br/> 
+   
+ ***
+
 <!--===================== Star Rating System =============================-->
 ### 💻 Star Rating System  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
 - A star rating system consists of a set of stars that are displayed on a website or application, and users can select a certain number of stars to represent their rating.
@@ -151,7 +163,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/3c5e
    
  ***
 
-<!--======================= Login & Registration Form ===========================-->
+ <!--======================= Login & Registration Form ===========================-->
 ### 💻 Login & Registration Form  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
 - In this project, I craft a website’s homepage that has a Navigation-bar and a Login-button. When you click on the button, a login form will popup with a cool blurred background effect.<br/> 
 - The form has an image on the left and input fields on the right side. If you want to sign up instead, simply click on the sign-up link and you’ll be taken to the registration form.
