@@ -14,17 +14,95 @@ body {
 }
 
 /*================ MAIN ================*/
+.toggle {
+  position: relative;
+  width: 120px;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 50px;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.toggle i {
+  width: 50%;
+  line-height: 60px;
+  text-align: center;
+  font-size: 30px;
+  z-index: 1;
+}
+
+.toggle .ball {
+  position: absolute;
+  widows: 45px;
+  height: 45px;
+  margin: 7.5px;
+  border-radius: 50%;
+  transition: 0.3s ease;
+}
+
+input {
+  display: none;
+}
+
+/*================ Light-Mode ================*/
+.light {
+  background: #fafafa;
+}
+
+.light .toggle {
+  background: linear-gradient(145deg, #e1e1e1, #fff);
+  box-shadow: 3px 3px 4px #e6e6e6, -3px -3px 4px #fff;
+}
+
+.light .toggle .bxs-sun {
+  color: #fafafa;
+}
+
+.light .toggle .bx-moon {
+  color: #151d2a;
+}
+
+.light .toggle .ball {
+  background: #151d2a;
+}
+
+/*================ Dark-Mode ================*/
+.dark {
+  background: #151d2a;
+}
+
+.dark .toggle {
+  background: #151d2a;
+  box-shadow: 3px 3px 3px #0e131b, -3px -3px 3px #1c2739;
+}
+
+.dark .toggle .bx-sun {
+  color: #fafafa;
+}
+
+.dark .toggle .bxs-moon {
+  color: #151d2a;
+}
+
+.dark .toggle .ball {
+  background: #fafafa;
+  transform: translateX(60px);
+}
+
 .logo {
   position: absolute;
   top: 15px;
   left: 15px;
-  opacity: 0.5;
+  opacity: 0.8;
 }
+
+.dark .logo {
+  background: #fafafa;
+}
+
 .logo img {
   width: 11rem;
   height: 6rem;
-}
-
-.logo:hover {
-  opacity: 0.8;
 }
