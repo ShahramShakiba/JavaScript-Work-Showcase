@@ -1,0 +1,37 @@
+/*================ FONT ================*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+/*================ ROOT ================*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+html,
+body {
+  display: grid;
+  height: 100%;
+  width: 100%;
+  place-items: center;
+  background: url('images/Background.jpg') no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+/*================ MAIN ================*/
+.logo {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  opacity: 0.5;
+}
+.logo img {
+  width: 11rem;
+  height: 6rem;
+}
+
+.logo:hover {
+  opacity: 0.8;
+}
