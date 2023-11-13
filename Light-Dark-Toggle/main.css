@@ -95,11 +95,12 @@ input {
   position: absolute;
   top: 15px;
   left: 15px;
-  opacity: 0.8;
+  opacity: 0.7;
 }
 
 .dark .logo {
   background: #fafafa;
+  border-radius: 50px;
 }
 
 .logo img {
