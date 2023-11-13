@@ -21,7 +21,7 @@ const updateTime = () => {
   let second = 1000;
   let minute = second * 60;
   let hour = minute * 60;
-  let day = hour * 2;
+  let day = hour * 3;
 
   let days = Math.floor(gap / day);
   let hours = Math.floor((gap % day) / hour);

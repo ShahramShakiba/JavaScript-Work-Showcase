@@ -28,12 +28,15 @@ header {
 
 header .logo {
   position: relative;
-  width: 10rem;
+  width: 8rem;
   height: 5rem;
+  top: 10px;
 }
 
 header .logo img {
   width: 100%;
+  background: #e4e4e4;
+  border-radius: 6px;
 }
 
 header nav {
@@ -126,6 +129,10 @@ section {
   border-radius: 40px;
 }
 
+.contentBox a:hover {
+  opacity: 0.9;
+}
+
 section .imgBox img {
   position: relative;
   max-width: 500px;
@@ -206,12 +213,19 @@ section .socials li a {
   border: 1px solid #999;
 }
 
+.newsLetter .inputBox input:focus {
+  border: 1px solid #ff0083;
+}
+
+.newsLetter .inputBox input[type='submit']:hover {
+  opacity: 0.8;
+}
+
 .newsLetter .inputBox input[type='submit'] {
   padding: 10px;
   outline: none;
   width: 140px;
   color: #fff;
-
   background: #ff0083;
   border: 1px solid #ff0083;
   letter-spacing: 2px;
@@ -241,6 +255,11 @@ section .socials li a {
 
   section .imgBox img {
     margin-top: 0;
+  }
+
+  header .logo {
+    width: 7rem;
+    top: 23px;
   }
 }
 
@@ -294,5 +313,10 @@ section .socials li a {
   .newsLetter h2 {
     font-size: 36px;
     color: #312747;
+  }
+
+  header .logo {
+    width: 7rem;
+    top: 23px;
   }
 }
