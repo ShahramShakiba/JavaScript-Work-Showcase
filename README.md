@@ -4,7 +4,7 @@
 > These are a collection of small projects aimed at creating a suite of Web Design Tools. <br/>
 
 >  _List of projects :_ <br/>
-+ `  Coming Soon Page  `
++ `  Coming Soon Landing Page  `
 + `  Custom Form Validation  ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 + `  Custom Captcha Generator  `
 + `  OTP Verification Form  `
