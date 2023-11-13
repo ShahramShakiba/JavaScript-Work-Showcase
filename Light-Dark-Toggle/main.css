@@ -11,39 +11,87 @@
 
 body {
   height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  transition: 0.2s;
-  background-color: #ececec;
 }
 
 /*================ MAIN ================*/
-h1 {
-  text-align: center;
-  font-size: 1.2em;
-  margin-bottom: 30px;
+main {
+  height: 100%;
+  margin: 8rem 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
 }
 
-.bxs-sun {
-  display: block;
-  font-size: 40px;
-  cursor: pointer;
-  border: 1px solid #cacaca;
+.content {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 25px;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.content .lantern {
+  width: 220px;
+  height: 250px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+p {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+#dark-change {
+  position: absolute;
+  width: 65px;
+  height: 32px;
+  right: 30px;
+  top: 40px;
+  border: 1px solid #9e9e9e;
+  border-radius: 20px;
+  outline: none;
+}
+
+#dark-change:before {
+  position: absolute;
+  content: '';
+  width: 26px;
+  height: 26px;
+  left: 2px;
+  top: 2px;
   border-radius: 50%;
-  padding: 8px;
-  color: #4b4b4b
+  background: #353535;
+  cursor: pointer;
+  transition: 0.4s;
+}
+
+#dark-change.active:before {
+  left: 34px;
+  background: #d8d8d8;
+}
+
+body.night {
+  background: #353535;
+  color: #fff;
 }
 
 .logo {
   position: absolute;
-  top: 15px;
-  left: 15px;
+  top: 25px;
+  left: 25px;
   opacity: 0.9;
+  background-color: #d3d3d3;
+  border-radius: 20px;
 }
 
 .logo img {
-  width: 11rem;
-  height: 6rem;
+  width: 7rem;
+  height: 3rem;
 }

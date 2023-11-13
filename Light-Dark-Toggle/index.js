@@ -1,14 +1,8 @@
-const body = document.querySelector('body'),
-  toggle = body.querySelector('#toggle'),
-  sunIcon = document.querySelector('.toggle .bx-sun'),
-  moonIcon = document.querySelector('.toggle .bx-moon');
+const content = document.getElementsByTagName('body')[0],
+  darkMode = document.getElementById('dark-change');
 
-toggle.addEventListener('change', () => {
-  body.classList.toggle('dark');
+darkMode.addEventListener('click', () => {
+  darkMode.classList.toggle('active');
 
-  sunIcon.className =
-    sunIcon.className === 'bx bx-sun' ? 'bx bxs-sun' : 'bx bxs-sun';
-
-  moonIcon.className =
-    sunIcon.className === 'bx bxs-moon' ? 'bx bxs-moon' : 'bx bxs-moon';
+  content.classList.toggle('night');
 });
