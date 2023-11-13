@@ -10,62 +10,95 @@
     <title>Coming Soon Page</title>
   </head>
   <body>
-    <div class="logo">
-      <img src="images/Shahram-logo.png" alt="Shahram-logo" />
-    </div>
+    <!------- Header ------->
+    <header>
+      <a href="#" class="logo">
+        <img src="images/Shahram-logo.png" alt="Shahram-logo" />
+      </a>
 
-    <!--============= Main =============-->
-    <div class="wrapper">
-      <div class="title">
-        Our website is <span>Coming soon</span>, follow us <br />
-        for update now!
+      <nav>
+        <ul>
+          <li>
+            <a href="#">Home</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <!------- Description ------->
+    <section>
+      <img src="images/curve.png" class="wave" alt="shape-of-wave" />
+
+      <div class="contentBox">
+        <h2>Coming Soon</h2>
+
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae
+          nostrum, eius incidunt maiores id ullam nemo tenetur ab, debitis
+          similique quos
+        </p>
+
+        <!-- count-down section -->
+        <div class="countDown">
+          <div class="time">
+            <div id="day"></div>
+            <span>Days</span>
+          </div>
+          <div class="time">
+            <div id="hour"></div>
+            <span>Hours</span>
+          </div>
+          <div class="time">
+            <div id="minute"></div>
+            <span>Minutes</span>
+          </div>
+          <div class="time">
+            <div id="second"></div>
+            <span>Seconds</span>
+          </div>
+        </div>
+
+        <a href="#" class="notifyBtn">Notify Me!</a>
       </div>
 
-      <!------- email ------->
-      <form action="#" class="form">
-        <div class="email-field">
-          <input type="email" placeholder="Enter Email Address" required />
-
-          <button type="submit">Subscribe</button>
-        </div>
-      </form>
-
-      <div class="count-down">
-        <!-- Timer-Day -->
-        <div class="timer day">
-          <div class="count">
-            <div class="num">00</div>
-            <div class="text">Days</div>
-          </div>
-        </div>
-        <div class="clone">:</div>
-
-        <!-- Timer-Hour -->
-        <div class="timer hour">
-          <div class="count">
-            <div class="num">00</div>
-            <div class="text">Hours</div>
-          </div>
-        </div>
-        <div class="clone">:</div>
-
-        <!-- Timer-Minutes -->
-        <div class="timer min">
-          <div class="count">
-            <div class="num">00</div>
-            <div class="text">Minutes</div>
-          </div>
-        </div>
-        <div class="clone">:</div>
-
-        <!-- Timer-Seconds -->
-        <div class="timer sec">
-          <div class="count">
-            <div class="num">00</div>
-            <div class="text">Seconds</div>
-          </div>
-        </div>
+      <div class="imgBox">
+        <img src="images/man.png" alt="cartoon-man" />
       </div>
+
+      <!------- Social-Media ------->
+      <ul class="socials">
+        <li>
+          <a href="#"><img src="images/facebook.png" alt="FaceBook" /></a>
+        </li>
+        <li>
+          <a href="#"><img src="images/twitter.png" alt="Twitter" /></a>
+        </li>
+        <li>
+          <a href="#"><img src="images/instagram.png" alt="Instagram" /></a>
+        </li>
+      </ul>
+    </section>
+
+    <!------- News-Letter section ------->
+    <div class="newsLetter">
+      <h2>Stay Tuned</h2>
+
+      <p>Get notified at launch</p>
+
+      <div class="inputBox">
+        <form action="#">
+          <input
+            type="email"
+            name=""
+            placeholder="Enter Email Address"
+            required
+          />
+
+          <input type="submit" value="Submit" />
+        </form>
+      </div>
+
+      <img src="images/close.png" alt="close-png" class='close'>
     </div>
 
     <script src="index.js"></script>

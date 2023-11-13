@@ -1,5 +1,5 @@
 /*================ FONT ================*/
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
 
 /*================ ROOT ================*/
 * {
@@ -9,172 +9,290 @@
   font-family: 'Poppins', sans-serif;
 }
 
-html,
 body {
-  display: grid;
-  height: 100%;
+  background: #312747;
+}
+
+/*================ HEADER ================*/
+header {
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
-  place-items: center;
-  background: url('images/background.jpg') no-repeat;
-  background-size: cover;
-  background-position: center;
-}
-
-/*================ MAIN ================*/
-.wrapper {
-  color: #fff;
-  max-width: 900px;
-  text-align: center;
-  padding: 0 50px;
-}
-
-.wrapper .title {
-  font-size: 35px;
-  font-weight: 500;
-}
-
-.wrapper .title span {
-  font-weight: 700;
-}
-
-.wrapper form {
-  margin-block: 50px;
-}
-
-.wrapper form .email-field {
-  height: 50px;
-  width: 100%;
+  padding: 40px 100px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
+  z-index: 10;
 }
 
-form .email-field input {
+header .logo {
+  position: relative;
+  width: 10rem;
+  height: 5rem;
+}
+
+header .logo img {
   width: 100%;
-  height: 100%;
-  padding-left: 20px;
-  border: none;
-  outline: none;
+}
+
+header nav {
+  position: relative;
+}
+
+header nav ul {
+  position: relative;
+  display: flex;
+}
+
+header nav ul li {
+  list-style: none;
+}
+
+header nav ul li a {
+  text-decoration: none;
+  color: #fff;
   font-size: 18px;
 }
 
-form .email-field button {
-  height: 100%;
-  width: 200px;
-  outline: none;
-  border: none;
-  background: #fc4782;
+header nav ul li a:hover {
+  color: #ff0083;
+}
+
+/*================ Description ================*/
+section {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 100vh;
+  padding: 0 100px;
+}
+
+.contentBox {
+  position: relative;
+  max-width: 600px;
+  z-index: 999;
+}
+
+.contentBox h2 {
+  font-size: 60px;
   color: #fff;
-  font-size: 20px;
-  cursor: pointer;
-  transition: background 0.3s ease;
+  text-transform: uppercase;
 }
 
-form .email-field button:hover {
-  background: #000;
+.contentBox p {
+  font-size: 18px;
+  color: #fff;
 }
 
-.wrapper .count-down {
+.contentBox .countDown {
   display: flex;
-  width: 100%;
-  height: 100px;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-around;
+  margin: 20px 0;
 }
 
-.wrapper .count-down .timer {
-  height: 100%;
-  width: 100px;
-  border: 2px solid;
-  border-radius: 50%;
+.contentBox .countDown .time {
   display: flex;
-  align-items: center;
   justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: #fff;
+  margin-right: 20px;
+  font-size: 48px;
+  min-width: 110px;
+  font-weight: 700;
+  padding: 10px 5px 15px;
+  border-radius: 4px;
+  color: #ff0083;
 }
 
-.count-down .timer .numb {
-  font-size: 25px;
-  font-weight: 500;
+.contentBox .countDown .time span {
+  margin-top: -10px;
+  font-size: 20px;
+  font-weight: 600;
+
+  color: #312747;
 }
 
-.count-down .timer .text {
-  font-size: 15px;
+.contentBox a {
+  position: relative;
+  margin-top: 10px;
+  display: inline-block;
+  background: #ff0083;
+  color: #fff;
+  letter-spacing: 2px;
+  padding: 15px 35px;
+  text-decoration: none;
+  border-radius: 40px;
 }
 
-.count-down .clone {
-  font-size: 45px;
+section .imgBox img {
+  position: relative;
+  max-width: 500px;
+  width: 100%;
+  margin-top: 100px;
+  z-index: 2;
 }
 
-@media screen and (max-width: 630px) {
-  .wrapper .count-down {
-    height: 80px;
-  }
-
-  .wrapper .count-down .timer {
-    width: 80px;
-  }
-
-  .count-down .timer .numb {
-    font-size: 20px;
-  }
-
-  .count-down .timer .text {
-    font-size: 13px;
-  }
-
-  .count-down .clone {
-    font-size: 40px;
-  }
+.wave {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  z-index: 1;
+  pointer-events: none;
 }
 
-@media screen and (max-width: 542px) {
-  .wrapper {
-    padding: 0 20px;
-  }
-
-  .wrapper .count-down .timer {
-    border: none;
-  }
-
-  .count-down .timer .numb {
-    font-size: 28px;
-  }
-
-  .count-down .timer .text {
-    font-size: 15px;
-  }
-
-  .count-down .clone {
-    display: none;
-  }
-
-  .form .email-field button {
-    width: 150px;
-    font-size: 17px;
-  }
+section .socials {
+  position: absolute;
+  bottom: 40px;
+  left: 100px;
+  z-index: 999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  filter: invert(1);
 }
 
-@media (max-width: 340px) {
-  .wrapper .count-down {
-    height: 30px;
-  }
-
-  .wrapper .count-down .timer {
-    width: 30px;
-  }
+section .socials li {
+  list-style: none;
 }
 
-.logo {
+section .socials li a {
+  display: block;
+  margin-right: 20px;
+  transform: scale(0.8);
+}
+
+/*================ NewsLetter ================*/
+.newsLetter {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 600px;
+  padding: 60px;
+  background: #fff;
+  z-index: 999;
+  box-shadow: 0 0 0 100vh rgba(49, 39, 71, 0.95);
+  visibility: hidden;
+  opacity: 0;
+  transition: 0.5s ease;
+}
+
+.newsLetter.active {
+  visibility: visible;
+  opacity: 1;
+}
+
+.newsLetter h2 {
+  font-size: 48px;
+  color: #312747;
+}
+
+.newsLetter p {
+  font-size: 20px;
+  color: #312747;
+}
+
+.newsLetter .inputBox {
+  margin-top: 20px;
+}
+
+.newsLetter .inputBox input {
+  padding: 10px;
+  outline: none;
+  width: 300px;
+  font-size: 18px;
+  border: 1px solid #999;
+}
+
+.newsLetter .inputBox input[type='submit'] {
+  padding: 10px;
+  outline: none;
+  width: 140px;
+  color: #fff;
+
+  background: #ff0083;
+  border: 1px solid #ff0083;
+  letter-spacing: 2px;
+  cursor: pointer;
+}
+
+.newsLetter .close {
   position: absolute;
   top: 20px;
-  left: 14px;
-  opacity: 0.5;
-  background: #cccbcb;
-  border-radius: 10px;
+  right: 20px;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
 }
 
-.logo img {
-  width: 6rem;
-  height: 3rem;
+/*================ Media-Query ================*/
+@media screen and (max-width: 991px) {
+  section {
+    flex-direction: column;
+    padding-top: 150px;
+    height: auto;
+  }
+
+  section .contentBox {
+    max-width: 100%;
+  }
+
+  section .imgBox img {
+    margin-top: 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  header {
+    padding: 20px 50px;
+  }
+
+  section {
+    flex-direction: column;
+    padding: 150px 20px 100px;
+    height: auto;
+  }
+
+  section .contentBox h2 {
+    font-size: 40px;
+  }
+
+  section .contentBox p {
+    font-size: 16px;
+  }
+
+  .contentBox .countDown .time {
+    font-size: 30px;
+    min-width: 70px;
+    margin-right: 5px;
+  }
+
+  .contentBox .countDown .time span {
+    font-size: 14px;
+  }
+
+  section .contentBox a {
+    padding: 10px 25px;
+  }
+
+  section .socials {
+    left: 50px;
+  }
+
+  .newsLetter {
+    width: 90%;
+    padding: 30px;
+  }
+
+  .newsLetter .inputBox input {
+    margin-top: 10px;
+    width: 100%;
+  }
+
+  .newsLetter h2 {
+    font-size: 36px;
+    color: #312747;
+  }
 }
