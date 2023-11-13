@@ -1,108 +1,46 @@
+/*================ FONT ================*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
 /*================ ROOT ================*/
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
 }
 
 body {
   height: 100vh;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   transition: 0.2s;
+  background-color: #ececec;
 }
 
 /*================ MAIN ================*/
-.toggle {
-  position: relative;
-  width: 120px;
-  height: 60px;
-  display: flex;
-  justify-content: space-between;
-  border-radius: 50px;
-  transition: 0.2s;
-  cursor: pointer;
-}
-
-.toggle i {
-  width: 50%;
-  line-height: 60px;
+h1 {
   text-align: center;
-  font-size: 30px;
-  z-index: 1;
+  font-size: 1.2em;
+  margin-bottom: 30px;
 }
 
-.toggle .ball {
-  position: absolute;
-  widows: 45px;
-  height: 45px;
-  margin: 7.5px;
+.bxs-sun {
+  display: block;
+  font-size: 40px;
+  cursor: pointer;
+  border: 1px solid #cacaca;
   border-radius: 50%;
-  transition: 0.3s ease;
-}
-
-input {
-  display: none;
-}
-
-/*================ Light-Mode ================*/
-.light {
-  background: #fafafa;
-}
-
-.light .toggle {
-  background: linear-gradient(60deg, #d6d6d6, #fff);
-  box-shadow: 3px 3px 4px #e6e6e6, -3px -3px 4px #fff;
-  border: 2px solid #fff;
-}
-
-.light .toggle .bxs-sun {
-  color: #ffffff;
-}
-
-.light .toggle .bx-moon {
-  color: #151d2a;
-}
-
-.light .toggle .ball {
-  background: #151d2a;
-}
-
-/*================ Dark-Mode ================*/
-.dark {
-  background: #151d2a;
-}
-
-.dark .toggle {
-  background: #151d2a;
-  box-shadow: 3px 3px 3px #0e131b, -3px -3px 3px #1c2739;
-  border: 2px solid #5e5e5e;
-}
-
-.dark .toggle .bx-sun {
-  color: #fafafa;
-}
-
-.dark .toggle .bxs-moon {
-  color: #4070f4;
-}
-
-.dark .toggle .ball {
-  background: #fafafa;
-  transform: translateX(60px);
+  padding: 8px;
+  color: #4b4b4b
 }
 
 .logo {
   position: absolute;
   top: 15px;
   left: 15px;
-  opacity: 0.7;
-}
-
-.dark .logo {
-  background: #fafafa;
-  border-radius: 50px;
+  opacity: 0.9;
 }
 
 .logo img {
