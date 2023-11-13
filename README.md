@@ -23,11 +23,10 @@
 
 <!--=====================  Coming Soon Page =============================-->
 ### 💻 Coming Soon Page  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
-- A coming soon landing page is a pre-launch page or placeholder for a page that isn't ready because a product, service, feature, or website hasn't launched yet.
+- A Coming Soon Landing Page is a pre-launch page or placeholder for a page that isn't ready because a product, service, feature, or website hasn't launched yet.
 - It's a temporary location for visitors to learn more about something before that part of the website is finalized and ready to launch.
 
-
-
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/076cb982-d874-40a5-9923-d1866f6be48d
 
   <br/> 
 
