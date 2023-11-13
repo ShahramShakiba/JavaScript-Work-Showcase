@@ -52,12 +52,13 @@ input {
 }
 
 .light .toggle {
-  background: linear-gradient(145deg, #e1e1e1, #fff);
+  background: linear-gradient(60deg, #d6d6d6, #fff);
   box-shadow: 3px 3px 4px #e6e6e6, -3px -3px 4px #fff;
+  border: 2px solid #fff;
 }
 
 .light .toggle .bxs-sun {
-  color: #fafafa;
+  color: #ffffff;
 }
 
 .light .toggle .bx-moon {
@@ -76,6 +77,7 @@ input {
 .dark .toggle {
   background: #151d2a;
   box-shadow: 3px 3px 3px #0e131b, -3px -3px 3px #1c2739;
+  border: 2px solid #5e5e5e;
 }
 
 .dark .toggle .bx-sun {
@@ -83,7 +85,7 @@ input {
 }
 
 .dark .toggle .bxs-moon {
-  color: #151d2a;
+  color: #4070f4;
 }
 
 .dark .toggle .ball {
