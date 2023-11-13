@@ -4,6 +4,7 @@
 > These are a collection of small projects aimed at creating a suite of Web Design Tools. <br/>
 
 >  _List of projects :_ <br/>
++ `  Coming Soon Landing Page  `
 + `  Custom Form Validation  ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 + `  Custom Captcha Generator  `
 + `  OTP Verification Form  `
@@ -20,6 +21,17 @@
 + `  Text Typing Effect  `
 
 
+<!--=====================  Coming Soon Page =============================-->
+### 💻 Coming Soon Page  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+- A Coming Soon Landing Page is a pre-launch page or placeholder for a page that isn't ready because a product, service, feature, or website hasn't launched yet.
+- It's a temporary location for visitors to learn more about something before that part of the website is finalized and ready to launch.
+
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/076cb982-d874-40a5-9923-d1866f6be48d
+
+  <br/> 
+
+ ***
+ 
 ### 💻 Custom Form Validation  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  />  <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  /> <img src="https://skillicons.dev/icons?i=tailwind"  height="40" width="22" alt="tailwindcss logo"  />
 -  In this project, I create a set of functions which can be used to validate a form using the HTML validation attributes that, by default, the browser uses to trigger its own validation.
 
