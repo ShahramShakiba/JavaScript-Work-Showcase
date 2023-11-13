@@ -15,9 +15,9 @@ body {
   height: 100%;
   width: 100%;
   place-items: center;
-  background: url('images/Background.jpg') no-repeat;
+  /* background: url('images/Background.jpg') no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: center; */
 }
 
 /*================ MAIN ================*/
