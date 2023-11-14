@@ -6,7 +6,7 @@ const swiper = new Swiper('.slide-content', {
 
   // centers the current slide and makes it the main slide
   centerSlide: true,
-
+  
   // fade effect when transitioning between slides
   fade: true,
   grabCursor: true,
@@ -27,7 +27,7 @@ const swiper = new Swiper('.slide-content', {
   // break-points of different size of screens
   breakpoints: {
     0: {
-      slidesPerView: 3,
+      slidesPerView: 1,
     },
 
     520: {

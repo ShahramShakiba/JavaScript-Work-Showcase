@@ -24,6 +24,12 @@ body {
   padding: 40px 0;
 }
 
+.slide-container h1 {
+  text-align: center;
+  margin-bottom: 3rem;
+  color: #707070;
+}
+
 .slide-content {
   margin: 0 40px;
   overflow: hidden;
