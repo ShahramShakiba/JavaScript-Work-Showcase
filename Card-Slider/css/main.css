@@ -14,12 +14,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #efefef;
+  background-color: #dddddd;
 }
 
 /*================ MAIN ================*/
 .slide-container {
-  max-width: 1120px;
+  max-width: 1280px;
   width: 100%;
   padding: 40px 0;
 }
@@ -55,7 +55,7 @@ body {
   top: 0;
   height: 100%;
   width: 100%;
-  background-color: #4070f4;
+  background-color: #7d2ae8;
   border-radius: 25px 25px 0 25px;
 }
 
@@ -67,7 +67,7 @@ body {
   bottom: -40px;
   height: 40px;
   width: 40px;
-  background-color: #4070f4;
+  background-color: #7d2ae8;
 }
 
 .overlay::after {
@@ -89,7 +89,7 @@ body {
   width: 100%;
   object-fit: cover;
   border-radius: 50%;
-  border: 4px solid #4070f4;
+  border: 4px solid #7d2ae8;
 }
 
 .name {
@@ -109,7 +109,7 @@ body {
   font-size: 16px;
   color: #fff;
   padding: 8px 16px;
-  background-color: #4070f4;
+  background-color: #7d2ae8;
   border-radius: 6px;
   margin: 14px;
   cursor: pointer;
@@ -117,16 +117,16 @@ body {
 }
 
 .button:hover {
-  background: #265df2;
+  background: #8d39fa;
 }
 
 .swiper-navBtn {
-  color: #6e93f7;
+  color: #7d2ae8;
   transition: color 0.3s ease;
 }
 
 .swiper-navBtn:hover {
-  color: #4070f4;
+  color: #8d39fa;
 }
 
 .swiper-navBtn::before,
@@ -143,12 +143,12 @@ body {
 }
 
 .swiper-pagination-bullet {
-  background-color: #6e93f7;
+  background-color: #b67eff;
   opacity: 1;
 }
 
 .swiper-pagination-bullet-active {
-  background-color: #4070f4;
+  background-color: #7b28e7;
 }
 
 @media screen and (max-width: 768px) {
@@ -165,7 +165,7 @@ body {
   position: absolute;
   top: 15px;
   left: 15px;
-  opacity: 0.5;
+  opacity: 0.8;
 }
 .logo img {
   width: 11rem;
