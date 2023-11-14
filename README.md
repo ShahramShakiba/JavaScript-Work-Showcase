@@ -32,7 +32,8 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/076c
   <br/> 
 
  ***
- 
+
+<!--=====================  Custom Form Validation =============================-->
 ### 💻 Custom Form Validation  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  />  <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  /> <img src="https://skillicons.dev/icons?i=tailwind"  height="40" width="22" alt="tailwindcss logo"  />
 -  In this project, I create a set of functions which can be used to validate a form using the HTML validation attributes that, by default, the browser uses to trigger its own validation.
 
@@ -47,6 +48,18 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/b407
 ### 💻 Card Slider  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
 - A card slider means the combination of cards aligned horizontally and has a feature to slide to watch the hidden cards.
 - The card can contain any content. Like profile cards, e-commerce product cards, blogs card, and others.
+
+
+
+
+  <br/> 
+
+ ***
+
+ <!--=====================  Filterable Image Gallery =============================-->
+### 💻 Card Slider  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="22" alt="bootstrap logo"  />
+- A filterable image gallery is a type of image gallery that allows users to filter or sort the displayed images based on certain categories or tags.
+- This is one of the essential elements on today’s website, as it allows users to easily find the images they are interested in without having to scroll through a long list of images.
 
 
 
@@ -228,3 +241,32 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/d753
   <a href="https://twitter.com/DevZEEMO" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
+
+
+
+
+
+  <div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  
+</div>
+
+###
