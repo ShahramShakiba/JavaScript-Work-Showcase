@@ -50,8 +50,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/b407
 - A card slider means the combination of cards aligned horizontally and has a feature to slide to watch the hidden cards.
 - The card can contain any content. Like profile cards, e-commerce product cards, blogs card, and others.
 
-
-
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/8f459ab0-12dd-4cfd-b15b-23705bc0d8c8
 
   <br/> 
 
