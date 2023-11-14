@@ -7,6 +7,7 @@
 + `  Coming Soon Landing Page  `
 + `  Custom Form Validation  ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 + `  Card Slider  `
++ `  Filterable Image Gallery  `
 + `  Custom Captcha Generator  `
 + `  OTP Verification Form  `
 + `  Password Validation  `
@@ -57,12 +58,11 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/b407
  ***
 
  <!--=====================  Filterable Image Gallery =============================-->
-### 💻 Card Slider  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="22" alt="bootstrap logo"  />
+### 💻 Filterable Image Gallery  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="22" alt="bootstrap logo"  />
 - A filterable image gallery is a type of image gallery that allows users to filter or sort the displayed images based on certain categories or tags.
 - This is one of the essential elements on today’s website, as it allows users to easily find the images they are interested in without having to scroll through a long list of images.
 
-
-
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/2646cd0a-65b2-4fb9-9996-09faea32dfb4
 
   <br/> 
 
