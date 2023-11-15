@@ -3,18 +3,13 @@
 
 /*================ ROOT ================*/
 :root {
-  --header-height: 3rem;
-
   --first-color: #3664f4;
   --dark-color: #070d1f;
   --dark-color-alt: #282b3a;
   --white-color: #e6e7e9;
 
-  --body-font: 'Poppins', sans-serif;
   --normal-font-size: 0.938rem;
   --small-font-size: 0.813rem;
-
-  --z-fixed: 100;
 }
 
 @media screen and (min-width: 768px) {
@@ -33,8 +28,8 @@
 }
 
 body {
-  margin: var(--header-height) 0 0 0;
-  font-family: var(--body-font);
+  margin: 3rem 0 0 0;
+  font-family: 'Poppins', sans-serif;
   font-size: var(--normal-font-size);
   font-weight: 500;
 }
@@ -54,4 +49,122 @@ img {
   height: auto;
 }
 
-/*================ MAIN ================*/
+.bd-grid {
+  max-width: 1024px;
+  display: grid;
+  grid-template-columns: 100%;
+  margin: 0 1.5rem;
+}
+
+/*=> Header ================*/
+.header {
+  width: 100%;
+  height: 3rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 0 1.5rem;
+  background-color: var(--dark-color);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 99;
+}
+
+.header-logo {
+  color: var(--white-color);
+}
+
+.header-toggle {
+  font-size: 1.5rem;
+  color: var(--white-color);
+  cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+  .nav {
+    position: fixed;
+    top: 0;
+    left: -100%;
+    background-color: var(--dark-color);
+    color: var(--white-color);
+    width: 100%;
+    height: 100vh;
+    padding: 1.5rem 0;
+    transition: 0.5s;
+    z-index: 99;
+  }
+}
+
+.nav-content {
+  height: 100%;
+  grid-template-rows: max-content 1fr max-content;
+  row-gap: 2rem;
+}
+
+.nav-close {
+  position: absolute;
+  right: 1.5rem;
+  font-size: 1.3rem;
+  padding: 0.25rem;
+  background-color: var(--dark-color-alt);
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.nav-img {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 0.25rem;
+  margin-bottom: 0.8rem;
+  width: 7rem;
+  height: 40px;
+  overflow: hidden;
+}
+
+.nav-name {
+  display: block;
+  color: var(--white-color);
+}
+
+.nav-profession {
+  font-size: var(--small-font-size);
+}
+
+.nav-menu {
+  align-self: center;
+}
+
+.nav-item {
+  margin: 2.5rem 0;
+}
+
+.nav-link {
+  color: var(--white-color);
+}
+
+.nav-social {
+  padding-top: 0.5rem;
+}
+
+.navSocial-icon {
+  font-size: 1.2rem;
+  color: var(--white-color);
+  margin-right: 1rem;
+}
+
+.navSocial-icon:hover {
+  color: var(--first-color);
+}
+
+/*=> Show/Hide */
+.show {
+  left: 0;
+}
+
+/*=> Active menu  */
+.active {
+  color: var(--first-color);
+}
+
