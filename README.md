@@ -5,6 +5,7 @@
 
 >  _List of projects :_ <br/>
 + `  Coming Soon Landing Page  `
++ `  Login & Signup Form  `
 + `  Custom Form Validation  ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 + `  Card Slider  `
 + `  Filterable Image Gallery  `
@@ -19,7 +20,6 @@
 + `  Toast Notification  `
 + `  Show & Hide Password  `
 + `  Character Limit  `
-+ `  Login & Registration Form  `
 + `  Text Typing Effect  `
 
 
@@ -32,6 +32,18 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/076c
 
   <br/> 
 
+ ***
+
+ <!--======================= Login & Signup Form ===========================-->
+### 💻 Login & Signup Form  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+- In this project, I craft a website’s homepage that has a Navigation-bar and a Login-button. When you click on the button, a login form will popup with a cool blurred background effect.<br/> 
+- The form has an image on the left and input fields on the right side. If you want to sign up instead, simply click on the sign-up link and you’ll be taken to the registration form.
+
+
+
+
+   <br/> 
+   
  ***
 
 <!--=====================  Custom Form Validation =============================-->
@@ -194,18 +206,6 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/4cb9
 - Keeps content clear and brief: By sticking to character limits, users are encouraged to get their point across as quickly and clearly as possible.
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/3c5e36f0-21d3-4fca-b6b4-0be32ddf1098
-
-
-   <br/> 
-   
- ***
-
- <!--======================= Login & Registration Form ===========================-->
-### 💻 Login & Registration Form  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
-- In this project, I craft a website’s homepage that has a Navigation-bar and a Login-button. When you click on the button, a login form will popup with a cool blurred background effect.<br/> 
-- The form has an image on the left and input fields on the right side. If you want to sign up instead, simply click on the sign-up link and you’ll be taken to the registration form.
-
-https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/98ab1e77-36a0-4a0a-9a3a-0e5bc9fe5b5c
 
 
    <br/> 
