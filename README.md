@@ -52,8 +52,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/d6b7
 - A sidebar is the combination of several navigation links aligned vertically at the left or right side of the web page.
 - Sidebar helps users to get into the different webpage through the help of navigation links and they have open and close features.
 
-
-
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/7d506e1b-1e28-4873-9008-9390e8234871
 
    <br/> 
    
