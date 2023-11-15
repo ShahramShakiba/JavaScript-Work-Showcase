@@ -5,10 +5,10 @@
     <link rel="icon" href="images/icon.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="Author" content="Shahram Shakiba" />
-    <!-- Google Fonts Link For Icons -->
+    <!-- Unicons -->
     <link
       rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@48,400,0,0"
+      href="https://unicons.iconscout.com/release/v4.0.8/css/line.css"
     />
 
     <link rel="icon" type="image/png" href="images/logo.png" />
@@ -16,119 +16,105 @@
     <title>Login & Signup Form</title>
   </head>
   <body>
-    <!--========== Navigation Bar ==========-->
-    <header>
-      <nav class="navbar">
-        <span class="menu-btn material-symbols-rounded">menu</span>
+    <!--========== HEADER ==========-->
+    <header class="header">
+      <nav class="nav">
+        <a href="#" class="nav-logo">CodingLab</a>
 
-        <!--logo-->
-        <a href="#" class="logo">
-          <img src="images/Shahram-logo.png" alt="logo" />
-        </a>
-
-        <!--navBar-->
-        <ul class="links">
-          <span class="close-btn material-symbols-rounded">close</span>
-
-          <li><a href="#">Home</a></li>
-          <li><a href="#">Portfolio</a></li>
-          <li><a href="#">Courses</a></li>
-          <li><a href="#">About us</a></li>
-          <li><a href="#">Contact us</a></li>
+        <ul class="nav-items">
+          <li class="nav-item">
+            <a href="#" class="nav-link">Home</a>
+            <a href="#" class="nav-link">Product</a>
+            <a href="#" class="nav-link">Services</a>
+            <a href="#" class="nav-link">Contact</a>
+          </li>
         </ul>
 
-        <button class="login-btn">LOG IN</button>
+        <button class="button" id="form-open">Login</button>
       </nav>
     </header>
 
-    <!--============= Popup Form =============-->
-    <div class="blur-bg-overlay"></div>
+    <!--=========== HEADER ===========-->
+    <section class="home">
+      <div class="form-container">
+        <i class="uil uil-times form-close"></i>
 
-    <div class="form-popup">
-      <span class="close-btn material-symbols-rounded">close</span>
+        <!-------Login From-------->
+        <div class="form login-form">
+          <form action="#">
+            <h2>Login</h2>
 
-      <!-------- Login --------->
-      <div class="form-box login">
-        <!--form-details-->
-        <div class="form-details">
-          <h2>Welcome Back</h2>
-          <p>
-            Please log in using your personal information to stay connected with
-            us.
-          </p>
+            <!--EMAIL-->
+            <div class="input-box">
+              <input type="email" placeholder="Enter your email" required />
+              <i class="uil uil-envelope-alt email"></i>
+            </div>
+
+            <!--PASSWORD-->
+            <div class="input-box">
+              <input
+                type="password"
+                placeholder="Enter your password"
+                required
+              />
+              <i class="uil uil-lock password"></i>
+              <i class="uil uil-eye-slash pw-hide"></i>
+            </div>
+
+            <!--OPTION-->
+            <div class="option-field">
+              <span class="checkbox">
+                <input type="checkbox" id="check" />
+                <label for="check">Remember me</label>
+              </span>
+
+              <a href="#" class="forgot-pw">Forgot password?</a>
+            </div>
+
+            <!--LogiN-btn-->
+            <button class="button">Login Now</button>
+
+            <div class="login-signup">
+              Don't have an account? <a href="#" id="signup">Signup</a>
+            </div>
+          </form>
         </div>
 
-        <!--form-content-->
-        <div class="form-content">
-          <h2>LOGIN</h2>
-
+        <!-------Signup From-------->
+        <div class="form signup-form">
           <form action="#">
-            <div class="input-field">
-              <input type="text" required />
-              <label>Email</label>
+            <h2>Signup</h2>
+
+            <!--EMAIL-->
+            <div class="input-box">
+              <input type="email" placeholder="Enter your email" required />
+              <i class="uil uil-envelope-alt email"></i>
             </div>
 
-            <div class="input-field">
-              <input type="password" required />
-              <label>Password</label>
+             <!--PASSWORD-->
+            <div class="input-box">
+              <input type="password" placeholder="Create password" required />
+              <i class="uil uil-lock password"></i>
+              <i class="uil uil-eye-slash pw-hide"></i>
             </div>
 
-            <a href="#" class="forget-pass-link">Forget password?</a>
+             <!--CONFIRM-PASSWORD-->
+            <div class="input-box">
+              <input type="password" placeholder="Confirm password" required />
+              <i class="uil uil-lock password"></i>
+              <i class="uil uil-eye-slash pw-hide"></i>
+            </div>
 
-            <button type="submit">Log In</button>
+            <!--LogiN-btn-->
+            <button class="button">Signup Now</button>
+
+            <div class="login-signup">
+              Already have an account? <a href="#" id="login">Login</a>
+            </div>
           </form>
-
-          <div class="bottom-link">
-            Don't have an account?
-            <a href="#" id="signup-link">Signup</a>
-          </div>
         </div>
       </div>
-
-      <!-------- Signup -------->
-      <div class="form-box signup">
-        <!--form-details-->
-        <div class="form-details">
-          <h2>Create Account</h2>
-          <p>
-            To become a part of our community, please sign up using your
-            personal information.
-          </p>
-        </div>
-
-        <!--form-content-->
-        <div class="form-content">
-          <h2>SIGNUP</h2>
-
-          <form action="#">
-            <div class="input-field">
-              <input type="text" required />
-              <label>Enter your email</label>
-            </div>
-
-            <div class="input-field">
-              <input type="password" required />
-              <label>Create password</label>
-            </div>
-
-            <div class="policy-text">
-              <input type="checkbox" id="policy" />
-              <label for="policy">
-                I agree the
-                <a href="#" class="option">Terms & Conditions</a>
-              </label>
-            </div>
-
-            <button type="submit">Sign Up</button>
-          </form>
-
-          <div class="bottom-link">
-            Already have an account?
-            <a href="#" id="login-link">Login</a>
-          </div>
-        </div>
-      </div>
-    </div>
+    </section>
 
     <script src="index.js"></script>
   </body>
