@@ -42,8 +42,9 @@ a {
   color: #fff;
 }
 
-.nav-logo {
-  font-size: 25px;
+.nav-logo img {
+  width: 7rem;
+  opacity: 0.8;
 }
 
 .nav-item {
@@ -64,6 +65,10 @@ a {
 
 .button:active {
   transform: scale(0.98);
+}
+
+.button:hover {
+  border-color: #7d2ae8;
 }
 
 /*================ HOME ================*/
@@ -116,7 +121,6 @@ a {
   pointer-events: auto;
   transform: translate(-50%, -50%) scale(1);
 }
-
 
 .signup-form {
   display: none;
