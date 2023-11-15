@@ -6,6 +6,7 @@
 >  _List of projects :_ <br/>
 + `  Coming Soon Landing Page  `
 + `  Login & Signup Form  `
++ `  Sidebar Menu  `
 + `  Custom Form Validation  ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 + `  Card Slider  `
 + `  Filterable Image Gallery  `
@@ -41,6 +42,17 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/076c
 
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/d6b7e4e4-0d50-4e0e-8ef8-aa72b594222a
+
+   <br/> 
+   
+ ***
+
+<!--======================= Sidebar Menu ===========================-->
+### 💻 Sidebar Menu  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+- A sidebar is the combination of several navigation links aligned vertically at the left or right side of the web page.
+- Sidebar helps users to get into the different webpage through the help of navigation links and they have open and close features.
+
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/7d506e1b-1e28-4873-9008-9390e8234871
 
    <br/> 
    
