@@ -5,17 +5,117 @@
     <link rel="icon" href="images/icon.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="Author" content="Shahram Shakiba" />
-    <!-- Unicons -->
+    <!-- Boxicons -->
     <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
       rel="stylesheet"
-      href="https://unicons.iconscout.com/release/v4.0.8/css/line.css"
     />
 
     <link rel="stylesheet" href="main.css" />
     <title>Dashboard Sidebar Menu</title>
   </head>
   <body>
-    <!--========== Main ==========-->
+    <nav class="sidebar close">
+      <!------header------>
+      <header>
+        <div class="image-text">
+          <span class="image">
+            <img src="images/Shahram-logo.png" alt="Shahram-logo" />
+          </span>
+
+          <div class="text logo-text">
+            <span class="name">Shahram</span>
+            <span class="profession">Frontend Developer</span>
+          </div>
+        </div>
+
+        <i class="bx bx-chevron-right toggle"></i>
+      </header>
+
+      <div class="menu-bar">
+        <div class="menu">
+          <!-----search----->
+          <li class="search-box">
+            <i class="bx bx-search icon"></i>
+            <input type="text" placeholder="Search..." />
+          </li>
+
+          <!-----Menu----->
+          <ul class="menu-links">
+            <li class="nav-link">
+              <a href="#">
+                <i class="bx bx-home-alt icon"></i>
+                <span class="text nav-text">Dashboard</span>
+              </a>
+            </li>
+
+            <li class="nav-link">
+              <a href="#">
+                <i class="bx bx-bar-chart-alt-2 icon"></i>
+                <span class="text nav-text">Revenue</span>
+              </a>
+            </li>
+
+            <li class="nav-link">
+              <a href="#">
+                <i class="bx bx-bell icon"></i>
+                <span class="text nav-text">Notifications</span>
+              </a>
+            </li>
+
+            <li class="nav-link">
+              <a href="#">
+                <i class="bx bx-pie-chart-alt icon"></i>
+                <span class="text nav-text">Analytics</span>
+              </a>
+            </li>
+
+            <li class="nav-link">
+              <a href="#">
+                <i class="bx bx-heart icon"></i>
+                <span class="text nav-text">Likes</span>
+              </a>
+            </li>
+
+            <li class="nav-link">
+              <a href="#">
+                <i class="bx bx-wallet icon"></i>
+                <span class="text nav-text">Wallets</span>
+              </a>
+            </li>
+          </ul>
+
+          <!-------footer------->
+          <div class="bottom-content">
+            <!--logout-->
+            <li class="">
+              <a href="#">
+                <i class="bx bx-log-out icon"></i>
+                <span class="text nav-text">Logout</span>
+              </a>
+            </li>
+
+            <!-- sun/moon-->
+            <li class="mode">
+              <div class="sun-moon">
+                <i class="bx bx-moon icon moon"></i>
+                <i class="bx bx-sun icon sun"></i>
+              </div>
+              <span class="mode-text text">Dark mode</span>
+
+              <!--toggle-switch-->
+              <div class="toggle-switch">
+                <span class="switch"></span>
+              </div>
+            </li>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <section class="home">
+      <div class="text">Dashboard Sidebar</div>
+    </section>
 
     <script src="index.js"></script>
   </body>
