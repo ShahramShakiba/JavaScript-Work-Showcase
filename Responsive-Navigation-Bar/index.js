@@ -14,11 +14,11 @@ closeMenu.addEventListener('click', () => {
 const linkAction = (e) => {
   //active link
   navLink.forEach((nav) => nav.classList.remove('active'));
-  
+
   e.target.classList.add('active');
-  
+
   //remove mobile menu
   navMenu.classList.remove('show');
-}
+};
 
 navLink.forEach((nav) => nav.addEventListener('click', linkAction));
