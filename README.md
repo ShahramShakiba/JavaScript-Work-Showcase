@@ -34,13 +34,13 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/076c
 
  ***
 
- <!--======================= Login & Signup Form ===========================-->
+<!--======================= Login & Signup Form ===========================-->
 ### 💻 Login & Signup Form  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
-- In this project, I craft a website’s homepage that has a Navigation-bar and a Login-button. When you click on the button, a login form will popup with a cool blurred background effect.<br/> 
-- The form has an image on the left and input fields on the right side. If you want to sign up instead, simply click on the sign-up link and you’ll be taken to the registration form.
+- Login forms are used in almost every website and Application. A login form utilizes the credentials of a user, in order to authenticate their access.
+- It generally consists of the typical username or email and password. But more fields can be added to improve the site's security.
 
 
-
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/d6b7e4e4-0d50-4e0e-8ef8-aa72b594222a
 
    <br/> 
    
