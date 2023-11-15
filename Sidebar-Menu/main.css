@@ -58,7 +58,7 @@ body.dark {
 }
 
 .sidebar.close {
-  /* width: 88px; */
+  width: 88px;
 }
 
 .sidebar li {
@@ -97,7 +97,7 @@ body.dark {
 }
 
 .sidebar.close .text {
-  /* opacity: 0; */
+  opacity: 0;
 }
 
 /* => Header =============== */
@@ -320,12 +320,20 @@ body.dark .switch::before {
   padding: 12px 60px;
 }
 
+.home .desc {
+  font-size: 18px;
+  font-weight: 500;
+  color: var(--text-color);
+  padding: 12px 60px;
+}
+
 .sidebar.close ~ .home {
   left: 78px;
   height: 100vh;
   width: calc(100% - 78px);
 }
 
-body.dark .home .text {
+body.dark .home .text,
+body.dark .home .desc {
   color: var(--text-color);
 }
