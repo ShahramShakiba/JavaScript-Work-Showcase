@@ -18,6 +18,58 @@ body {
 }
 
 /*================ MAIN ================*/
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  margin: 0 15px;
+  max-width: 500px;
+  width: 100%;
+  background: #fff;
+  padding: 0 20px;
+  border-radius: 20px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+.wrapper #icon {
+  font-size: 35px;
+  color: #616161;
+  width: 70px;
+  text-align: center;
+}
+
+.wrapper input {
+  max-width: 300px;
+  width: 100%;
+  margin: 0 10px;
+  appearance: none;
+  height: 18px;
+  border-radius: 25px;
+  background-color: #ededed;
+  box-shadow: 0 0 0 2px #ededed;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+input::-webkit-slider-thumb {
+  appearance: none;
+  height: 21px;
+  width: 21px;
+  background: #4070f4;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  box-shadow: -208px 0 0 200px #4070f4;
+}
+
+.wrapper .slide-value {
+  font-size: 27px;
+  font-weight: 500;
+  color: #696969;
+  width: 70px;
+  text-align: center;
+}
+
 .logo {
   position: absolute;
   top: 15px;
