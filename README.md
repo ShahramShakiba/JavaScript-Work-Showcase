@@ -9,11 +9,20 @@
  <br/>
  
 > ### _List of projects :_ 
- > ✅ Coming Soon Landing Page &nbsp;&nbsp;&nbsp; ✅ Login & Signup Form &nbsp;&nbsp;&nbsp; ✅ Sidebar Menu &nbsp;&nbsp;&nbsp; ✅ Responsive Navigation Bar &nbsp;&nbsp;&nbsp; ✅ Responsive Navigation Bar &nbsp;&nbsp;&nbsp;
- ✅ Custom Form Validation &nbsp;&nbsp;&nbsp; ✅ Card Slider &nbsp;&nbsp;&nbsp; ✅ Filterable Image Gallery  &nbsp;&nbsp;&nbsp; ✅ Custom Captcha Generator &nbsp;&nbsp;&nbsp; ✅ OTP Verification Form &nbsp;&nbsp;&nbsp; ✅ Password Validation
-  &nbsp;&nbsp;&nbsp; ✅ Popup Share Modal &nbsp;&nbsp;&nbsp; ✅ Drag and Drop List  &nbsp;&nbsp;&nbsp; ✅ Toggle Light/Dark Mode &nbsp;&nbsp;&nbsp; ✅ Download Button with Timer &nbsp;&nbsp;&nbsp; ✅ Pagination &nbsp;&nbsp;&nbsp; ✅ Star Rating System  &nbsp;&nbsp;&nbsp; ✅ Popup Cookies Consent Box &nbsp;&nbsp;&nbsp; ✅ Toast Notification &nbsp;&nbsp;&nbsp; ✅ Range Slider &nbsp;&nbsp;&nbsp; ✅ Show & Hide Password &nbsp;&nbsp;&nbsp;  ✅ Character Limit &nbsp;&nbsp;&nbsp; ✅ Text Typing Effect 
+ > ✅ Coming Soon Landing Page &nbsp;&nbsp;&nbsp; ✅ Login & Signup Form <br/>
+ > ✅ Sidebar Menu &nbsp;&nbsp;&nbsp; ✅ Responsive Navigation Bar <br/>
+ > ✅ Custom Form Validation &nbsp;&nbsp;&nbsp; ✅ Card Slider <br/>
+ > ✅ Filterable Image Gallery &nbsp;&nbsp;&nbsp;  ✅ Custom Captcha Generator <br/>
+ > ✅ OTP Verification Form  &nbsp;&nbsp;&nbsp; ✅ Password Validation <br/>
+ > ✅ Popup Share Modal &nbsp;&nbsp;&nbsp; ✅ Drag and Drop List <br/>
+ > ✅ Toggle Light/Dark Mode &nbsp;&nbsp;&nbsp; ✅ Download Button with Timer <br/>
+ > ✅ Pagination &nbsp;&nbsp;&nbsp; ✅ Star Rating System <br/>
+ > ✅ Popup Cookies Consent Box &nbsp;&nbsp;&nbsp; ✅ Toast Notification <br/>
+ > ✅ Range Slider &nbsp;&nbsp;&nbsp; ✅ Show & Hide Password <br/>
+ > ✅ Character Limit &nbsp;&nbsp;&nbsp; ✅ Text Typing Effect <br/>
      
 
+<br/>
 
 <!--=====================  Coming Soon Page =============================-->
 ### 💻 Coming Soon Page  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
