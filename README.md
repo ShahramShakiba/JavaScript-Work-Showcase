@@ -21,6 +21,7 @@
 + `  Star Rating System  `
 + `  Popup Cookies Consent Box  `
 + `  Toast Notification  `
++ `  Range Slider  `
 + `  Show & Hide Password  `
 + `  Character Limit  `
 + `  Text Typing Effect  `
@@ -224,6 +225,18 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/2b6b
 
  ***
  
+<!--==================== Range Slider ==============================-->
+### 💻 Range Slider  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+- Range Slider is the section that can be available on the webpage to increase and decrease the value.
+- For example when we have to increase or volume of the computer we have to use a range slider.
+
+
+
+
+  <br/> 
+
+ ***
+
 <!--==================== Show & Hide Password ==============================-->
 ### 💻 Show & Hide Password  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
 - As a definition, password show and hide mean showing or hiding the letter of the passwords by clicking on the toggle button.
