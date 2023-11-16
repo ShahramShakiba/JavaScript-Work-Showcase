@@ -5,7 +5,7 @@
     <link rel="icon" href="images/icon.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="Author" content="Shahram Shakiba" />
-<!-- Fontawesome -->
+    <!-- Fontawesome -->
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
@@ -13,7 +13,7 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
-    
+
     <link rel="stylesheet" href="main.css" />
     <title>Pagination</title>
   </head>
@@ -23,6 +23,31 @@
     </div>
 
     <!--========== Main ==========-->
+    <div class="container">
+      <button class="button" id="startBtn" disabled>
+        <i class="fa-solid fa-angles-left"></i>
+      </button>
+
+      <button class="button prevNext" id="prev" disabled>
+        <i class="fa-solid fa-angle-left"></i>
+      </button>
+
+      <div class="links">
+        <a href="#" class="link active">1</a>
+        <a href="#" class="link">2</a>
+        <a href="#" class="link">3</a>
+        <a href="#" class="link">4</a>
+        <a href="#" class="link">5</a>
+      </div>
+
+      <button class="button prevNext" id="next">
+        <i class="fa-solid fa-angle-right"></i>
+      </button>
+      
+      <button class="button" id="endBtn">
+        <i class="fa-solid fa-angles-right"></i>
+      </button>
+    </div>
 
     <script src="index.js"></script>
   </body>
