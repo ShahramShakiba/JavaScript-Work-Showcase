@@ -1,0 +1,30 @@
+/*================ FONT ================*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+/*================ ROOT ================*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #4070f4;
+}
+
+/*================ MAIN ================*/
+.logo {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  opacity: 0.5;
+}
+.logo img {
+  width: 8rem;
+  height: 2rem;
+}
