@@ -9,18 +9,10 @@
  <br/>
  
 > ### _List of projects :_ 
- `  1. Coming Soon Landing Page  ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  `  2. Login & Signup Form  ` <br/>
- `  3. Sidebar Menu  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  `  4. Responsive Navigation Bar ` <br/>
- `  5. Custom Form Validation  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `  6. Card Slider  ` <br/>
- `  7. Filterable Image Gallery  `   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  `  8. Custom Captcha Generator  ` <br/>
- `  9. OTP Verification Form  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  `  10. Password Validation  ` <br/>
- `  11. Popup Share Modal  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  `  12. Drag and Drop List  ` <br/>
- `  13. Toggle Light/Dark Mode  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `  14. Download Button with Timer  ` <br/>
- `  15. Pagination  `   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `  16. Star Rating System  ` <br/>
- `  17. Popup Cookies Consent Box  `  &nbsp;&nbsp;  `  18. Toast Notification  ` <br/>
- `  19. Range Slider  `   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  `  20. Show & Hide Password  ` <br/>
- `  21. Character Limit  `   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  `  22. Text Typing Effect  ` <br/><br/>
-
+ > ✅ Coming Soon Landing Page &nbsp;&nbsp;&nbsp; ✅ Login & Signup Form &nbsp;&nbsp;&nbsp; ✅ Sidebar Menu &nbsp;&nbsp;&nbsp; ✅ Responsive Navigation Bar &nbsp;&nbsp;&nbsp; ✅ Responsive Navigation Bar &nbsp;&nbsp;&nbsp;
+ ✅ Custom Form Validation &nbsp;&nbsp;&nbsp; ✅ Card Slider &nbsp;&nbsp;&nbsp; ✅ Filterable Image Gallery  &nbsp;&nbsp;&nbsp; ✅ Custom Captcha Generator &nbsp;&nbsp;&nbsp; ✅ OTP Verification Form &nbsp;&nbsp;&nbsp; ✅ Password Validation
+  &nbsp;&nbsp;&nbsp; ✅ Popup Share Modal &nbsp;&nbsp;&nbsp; ✅ Drag and Drop List  &nbsp;&nbsp;&nbsp; ✅ Toggle Light/Dark Mode &nbsp;&nbsp;&nbsp; ✅ Download Button with Timer &nbsp;&nbsp;&nbsp; ✅ Pagination &nbsp;&nbsp;&nbsp; ✅ Star Rating System  &nbsp;&nbsp;&nbsp; ✅ Popup Cookies Consent Box &nbsp;&nbsp;&nbsp; ✅ Toast Notification &nbsp;&nbsp;&nbsp; ✅ Range Slider &nbsp;&nbsp;&nbsp; ✅ Show & Hide Password &nbsp;&nbsp;&nbsp;  ✅ Character Limit &nbsp;&nbsp;&nbsp; ✅ Text Typing Effect 
+     
 
 
 <!--=====================  Coming Soon Page =============================-->
@@ -28,7 +20,7 @@
 - A Coming Soon Landing Page is a pre-launch page or placeholder for a page that isn't ready because a product, service, feature, or website hasn't launched yet.
 - It's a temporary location for visitors to learn more about something before that part of the website is finalized and ready to launch.
   
-🎬 Video 
+🎬  
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/076cb982-d874-40a5-9923-d1866f6be48d
 
@@ -41,7 +33,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/076c
 - Login forms are used in almost every website and Application. A login form utilizes the credentials of a user, in order to authenticate their access.
 - It generally consists of the typical username or email and password. But more fields can be added to improve the site's security.
 
-🎬 Video 
+🎬  
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/d6b7e4e4-0d50-4e0e-8ef8-aa72b594222a
 
@@ -54,7 +46,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/d6b7
 - A sidebar is the combination of several navigation links aligned vertically at the left or right side of the web page.
 - Sidebar helps users to get into the different webpage through the help of navigation links and they have open and close features.
 
-🎬 Video 
+🎬  
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/7d506e1b-1e28-4873-9008-9390e8234871
 
@@ -67,7 +59,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/7d50
 - The main purpose of Navigation Bar is to  directly redirect into the web pages by clicking on the hyperlinks as they want.
 - Another main purpose of the Navigation Bar is to make the user’s works convenient and easier. 
 
-🎬 Video
+🎬 
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/4d8a3c72-fd97-46ce-b1bd-9baa69768299
 
@@ -80,7 +72,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/4d8a
 ### 💻 Custom Form Validation  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  />  <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  /> <img src="https://skillicons.dev/icons?i=tailwind"  height="40" width="22" alt="tailwindcss logo"  />
 -  In this project, I create a set of functions which can be used to validate a form using the HTML validation attributes that, by default, the browser uses to trigger its own validation.
 
-🎬 Video
+🎬 
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/b407b264-a9ea-46be-977b-14097022e400
 
@@ -94,7 +86,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/b407
 - A card slider means the combination of cards aligned horizontally and has a feature to slide to watch the hidden cards.
 - The card can contain any content. Like profile cards, e-commerce product cards, blogs card, and others.
 
-🎬 Video
+🎬 
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/8f459ab0-12dd-4cfd-b15b-23705bc0d8c8
 
@@ -107,7 +99,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/8f45
 - A filterable image gallery is a type of image gallery that allows users to filter or sort the displayed images based on certain categories or tags.
 - This is one of the essential elements on today’s website, as it allows users to easily find the images they are interested in without having to scroll through a long list of images.
 
-🎬 Video
+🎬 
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/2646cd0a-65b2-4fb9-9996-09faea32dfb4
 
@@ -121,7 +113,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/2646
 - Captcha is a great way to protect privacy and provides a web experience free from the usability issues that SPAM creates. 
 - Many web services, including Google, use CAPTCHA to help prevent unauthorized account entry.
 
-🎬 Video
+🎬 
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/c1b4bf06-617e-446a-9bac-05b67186edfd
 
@@ -136,7 +128,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/c1b4
 - An OTP is more secure than a static password, especially a user-created password, which can be weak and/or reused across multiple accounts.
 - One of the most common uses of OTPs is the case where a user has forgotten their password, or had their account breached.
 
-🎬 Video
+🎬 
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/8d81a4f0-4612-4373-89e8-91ce58fa3890
 
@@ -151,7 +143,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/8d81
 - This is where password validation or strength checks come into play.
 - By implementing this password validation feature, website owners can ensure that users create strong passwords that are less likely to be compromised.
 
-🎬 Video
+🎬 
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/136593a7-6126-48d8-95b7-c4a3270834fc
 
@@ -165,7 +157,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/1365
 - There is a view modal button, when you click on that button then the modal box appears with a popup animation.
 - In this share modal box, there are some social media icons with pretty cool hover animation and an input box to copy the link.
 
-🎬 Video
+🎬 
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/8c98b8f0-bd6c-4e7d-9526-e1b483758c33
 
@@ -178,7 +170,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/8c98
 - Drag and drop sortable lists are a widely used UI element allowing users to reorder items by dragging and dropping them on a desired position.
 - This functionality can be found in many web applications, like task managers and e-commerce websites.
 
-🎬 Video
+🎬 
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/5e6e184f-0f3f-409c-90b2-a2798067e05b
 
@@ -192,7 +184,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/5e6e
 - The dark mode is ideal for reducing eye strain in low-light conditions and conserving battery power.
 - It might also enhance focus and productivity, particularly for late-night workers. On the other hand, the light mode can improve reading comprehension, speed and might even foster creativity.
 
-🎬 Video
+🎬 
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/237faa87-4c80-44ee-87d4-4f0c4490a369
 
@@ -205,7 +197,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/237f
 - There is a download button that starts the timer for particular seconds, and the file download only after the timer is finished.
 - Users can easily sync downloaded files from the internet to their computer to anywhere of their own choice.
 
-🎬 Video
+🎬 
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/afa119d1-b476-4539-90d1-03a8bb01f1a1
 
@@ -218,7 +210,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/afa1
 - Pagination is the way of linking a series of pages with related content.
 - Where a user can use links such as "next", "previous", and page numbers to navigate between pages that display one page of results at a time.
 
-🎬 Video
+🎬 
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/06310df5-ede0-4c3d-b4e4-c95a129d1408
 
@@ -231,7 +223,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/0631
 - A star rating system consists of a set of stars that are displayed on a website or application, and users can select a certain number of stars to represent their rating.
 - It is widely used to allow users to provide feedback or to rate items such as products, movies, or restaurants.
 
-🎬 Video
+🎬 
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/820007b3-2012-4dcd-9d87-f1f9f1c6306f
 
@@ -245,7 +237,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/8200
 - Cookies are text files that are sent to your browser by a website you visit.
 - They assist the website in remembering information about your visit, which can both make it simpler for you to return to the site and increase its usefulness to you.
 
-🎬 Video
+🎬 
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/55e46c6a-742d-418f-943c-3ab02f4227cf
 
@@ -258,7 +250,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/55e4
 - Toast Notification is the message box that appears from any side of the gadget screen, mainly from the right top side.
 - The message can be a warning message, error message, or some positive message.
 
-🎬 Video
+🎬 
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/2b6bced2-a4f8-44ef-a91f-916e45613b28
 
@@ -272,7 +264,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/2b6b
 - Range Slider is the section that can be available on the webpage to increase and decrease the value.
 - For example when we have to increase or volume of the computer we have to use a range slider.
 
-🎬 Video
+🎬 
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/611a2cc9-7b77-4bac-9484-3fd8004c3e1a
 
@@ -285,7 +277,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/611a
 - As a definition, password show and hide mean showing or hiding the letter of the passwords by clicking on the toggle button.
 - This type of feature is mostly added to the form for security purposes because many users do not want to show their passwords to those who are around them.
 
-🎬 Video
+🎬 
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/4cb98fac-7d69-4de0-8065-8941b3f4bf9b
 
@@ -300,7 +292,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/4cb9
 - Social media platforms impose character limits for different reasons, but most of them are similar regardless of the site and its users:
 - Keeps content clear and brief: By sticking to character limits, users are encouraged to get their point across as quickly and clearly as possible.
 
-🎬 Video
+🎬 
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/3c5e36f0-21d3-4fca-b6b4-0be32ddf1098
 
@@ -314,7 +306,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/3c5e
 - In this typing animation, each letter of the word appears after the other, creating a typewriter effect.
 - There is also a blinking caret animation at the end of the word to make the effect more attractive.
 
-🎬 Video
+🎬
 
 https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/d753a957-938c-4726-ad23-3c878a18eefc
 
@@ -340,4 +332,20 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/d753
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 
+
+<!-- 
+> ### _List of projects :_ 
+ > ✅ Coming Soon Landing Page &nbsp;&nbsp;&nbsp; ✅ Login & Signup Form &nbsp;&nbsp;&nbsp; ✅ Sidebar Menu &nbsp;&nbsp;&nbsp; ✅ Responsive Navigation Bar
+ >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     ✅ Responsive Navigation Bar  <br/>
+ > ✅ Custom Form Validation    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ✅ Card Slider   <br/>
+ > ✅ Filterable Image Gallery     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ✅ Custom Captcha Generator   <br/>
+ > ✅ OTP Verification Form    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ✅ Password Validation   <br/>
+ > ✅ Popup Share Modal    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ✅ Drag and Drop List   <br/>
+ > ✅ Toggle Light/Dark Mode    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ✅ Download Button with Timer   <br/>
+ > ✅ Pagination     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ✅ Star Rating System   <br/>
+ > ✅ Popup Cookies Consent Box    &nbsp;&nbsp;&nbsp;&nbsp;    ✅ Toast Notification   <br/>
+ > ✅ Range Slider     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ✅ Show & Hide Password   <br/>
+ > ✅ Character Limit     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ✅ Text Typing Effect   <br/><br/>
+
+-->
 
