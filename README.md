@@ -17,6 +17,7 @@
 + `  Popup Share Modal  `
 + `  Drag and Drop List  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 + `  Toggle Light/Dark Mode  `
++ `  Pagination  `
 + `  Star Rating System  `
 + `  Popup Cookies Consent Box  `
 + `  Toast Notification  `
@@ -175,6 +176,18 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/237f
 
    <br/> 
    
+ ***
+
+<!--===================== Pagination =============================-->
+### 💻 Pagination  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+- Pagination is the way of linking a series of pages with related content.
+- Where a user can use links such as "next", "previous", and page numbers to navigate between pages that display one page of results at a time.
+
+
+
+
+  <br/> 
+
  ***
 
 <!--===================== Star Rating System =============================-->
