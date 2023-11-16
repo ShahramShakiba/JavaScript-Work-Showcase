@@ -17,6 +17,7 @@
 + `  Popup Share Modal  `
 + `  Drag and Drop List  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 + `  Toggle Light/Dark Mode  `
++ `  Download Button with Timer  `
 + `  Pagination  `
 + `  Star Rating System  `
 + `  Popup Cookies Consent Box  `
@@ -177,6 +178,17 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/237f
 
    <br/> 
    
+ ***
+
+<!--===================== Download Button with Timer =============================-->
+### 💻 Download Button with Timer  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+- There is a download button that starts the timer for particular seconds, and the file download only after the timer is finished.
+- Users can easily sync downloaded files from the internet to their computer to anywhere of their own choice.
+
+
+
+  <br/> 
+
  ***
 
 <!--===================== Pagination =============================-->
