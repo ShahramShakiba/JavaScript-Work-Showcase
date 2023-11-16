@@ -3,7 +3,7 @@
 
 /*================ ROOT ================*/
 :root {
-  --first-color: #3664f4;
+  --first-color: #7d2ae8;
   --dark-color: #070d1f;
   --dark-color-alt: #282b3a;
   --white-color: #e6e7e9;
@@ -62,7 +62,7 @@ img {
   position: fixed;
   top: 0;
   left: 0;
-  padding: 0 1.5rem;
+  padding: 0 2rem;
   background-color: var(--dark-color);
   display: flex;
   justify-content: space-between;
@@ -71,11 +71,12 @@ img {
 }
 
 .header-logo {
+  font-size: 1.2rem;
   color: var(--white-color);
 }
 
 .header-toggle {
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   color: var(--white-color);
   cursor: pointer;
 }
@@ -107,6 +108,7 @@ img {
 }
 
 .nav-name {
+  font-size: 1.1rem;
   display: block;
   color: var(--white-color);
 }
@@ -119,7 +121,8 @@ img {
   align-self: center;
 }
 
-.nav-item {
+.nav-links,
+.nav-social {
   margin: 2.5rem 0;
 }
 
@@ -127,12 +130,8 @@ img {
   color: var(--white-color);
 }
 
-.nav-social {
-  padding-top: 0.5rem;
-}
-
 .navSocial-icon {
-  font-size: 1.2rem;
+  font-size: 1.05rem;
   color: var(--white-color);
   margin-right: 1rem;
 }
@@ -194,7 +193,8 @@ img {
   }
 
   .nav-close,
-  .nav-profession {
+  .nav-profession,
+  .nav-name {
     display: none;
   }
 
@@ -204,19 +204,19 @@ img {
   }
 
   .nav-img {
-    width: 32px;
-    height: 32px;
     margin-right: 0.5rem;
     margin-bottom: 0;
     align-items: center;
   }
 
   .nav-img img {
-    width: 36px;
+    width: 80%;
   }
 
   .nav-list {
+    font-size: .95rem;
     display: flex;
+    gap: 0.9rem;
   }
 
   .nav-item {
