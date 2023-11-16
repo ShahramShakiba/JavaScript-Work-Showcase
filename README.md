@@ -183,8 +183,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/237f
 - Pagination is the way of linking a series of pages with related content.
 - Where a user can use links such as "next", "previous", and page numbers to navigate between pages that display one page of results at a time.
 
-
-
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/06310df5-ede0-4c3d-b4e4-c95a129d1408
 
   <br/> 
 
