@@ -1,30 +1,21 @@
-# 🚧 Work is in progress 
+# JavaScript Work Showcase <img src="https://skillicons.dev/icons?i=js" height="40" width="36"  alt="javascript logo"  /> 
 
-### Mini-Projects
+### Description
 > These are a collection of small projects aimed at creating a suite of Web Design Tools. <br/>
 
 >  _List of projects :_ <br/>
-+ `  Coming Soon Landing Page  `
-+ `  Login & Signup Form  `
-+ `  Sidebar Menu  `
-+ `  Responsive Navigation Bar `
-+ `  Custom Form Validation  ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-+ `  Card Slider  `
-+ `  Filterable Image Gallery  `
-+ `  Custom Captcha Generator  `
-+ `  OTP Verification Form  `
-+ `  Password Validation  `
-+ `  Popup Share Modal  `
-+ `  Drag and Drop List  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-+ `  Toggle Light/Dark Mode  `
-+ `  Pagination  `
-+ `  Star Rating System  `
-+ `  Popup Cookies Consent Box  `
-+ `  Toast Notification  `
-+ `  Range Slider  `
-+ `  Show & Hide Password  `
-+ `  Character Limit  `
-+ `  Text Typing Effect  `
++ `  1. Coming Soon Landing Page  ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  `  2. Login & Signup Form  `
++ `  3. Sidebar Menu  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  `  4. Responsive Navigation Bar `
++ `  5. Custom Form Validation  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `  6. Card Slider  ` 
++ `  7. Filterable Image Gallery  `   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  `  8. Custom Captcha Generator  `
++ `  9. OTP Verification Form  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  `  10. Password Validation  `
++ `  11. Popup Share Modal  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  `  12. Drag and Drop List  `
++ `  13. Toggle Light/Dark Mode  `  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `  14. Download Button with Timer  `
++ `  15. Pagination  `   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `  16. Star Rating System  `
++ `  17. Popup Cookies Consent Box  `  &nbsp;&nbsp;  `  18. Toast Notification  `
++ `  19. Range Slider  `   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  `  20. Show & Hide Password  `
++ `  21. Character Limit  `   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  `  22. Text Typing Effect  `
+
 
 
 <!--=====================  Coming Soon Page =============================-->
@@ -177,6 +168,17 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/237f
 
    <br/> 
    
+ ***
+
+<!--===================== Download Button with Timer =============================-->
+### 💻 Download Button with Timer  &nbsp; <img src="https://skillicons.dev/icons?i=html" height="40" width="18" alt="html5 logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" width="18"  alt="css3 logo"  /> <img src="https://skillicons.dev/icons?i=js" height="40" width="18"  alt="javascript logo"  />
+- There is a download button that starts the timer for particular seconds, and the file download only after the timer is finished.
+- Users can easily sync downloaded files from the internet to their computer to anywhere of their own choice.
+
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/afa119d1-b476-4539-90d1-03a8bb01f1a1
+
+  <br/> 
+
  ***
 
 <!--===================== Pagination =============================-->
