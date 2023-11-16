@@ -64,6 +64,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/7d50
 - The main purpose of Navigation Bar is to  directly redirect into the web pages by clicking on the hyperlinks as they want.
 - Another main purpose of the Navigation Bar is to make the user’s works convenient and easier. 
 
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/4d8a3c72-fd97-46ce-b1bd-9baa69768299
 
 
    <br/> 
