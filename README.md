@@ -230,8 +230,7 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/2b6b
 - Range Slider is the section that can be available on the webpage to increase and decrease the value.
 - For example when we have to increase or volume of the computer we have to use a range slider.
 
-
-
+https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/611a2cc9-7b77-4bac-9484-3fd8004c3e1a
 
   <br/> 
 
