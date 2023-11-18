@@ -340,20 +340,3 @@ https://github.com/ShahramShakiba/JavaScript-Work-Showcase/assets/110089830/d753
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 
-
-<!-- 
-> ### _List of projects :_ 
- > ✅ Coming Soon Landing Page &nbsp;&nbsp;&nbsp; ✅ Login & Signup Form &nbsp;&nbsp;&nbsp; ✅ Sidebar Menu &nbsp;&nbsp;&nbsp; ✅ Responsive Navigation Bar
- >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     ✅ Responsive Navigation Bar  <br/>
- > ✅ Custom Form Validation    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ✅ Card Slider   <br/>
- > ✅ Filterable Image Gallery     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ✅ Custom Captcha Generator   <br/>
- > ✅ OTP Verification Form    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ✅ Password Validation   <br/>
- > ✅ Popup Share Modal    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ✅ Drag and Drop List   <br/>
- > ✅ Toggle Light/Dark Mode    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ✅ Download Button with Timer   <br/>
- > ✅ Pagination     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ✅ Star Rating System   <br/>
- > ✅ Popup Cookies Consent Box    &nbsp;&nbsp;&nbsp;&nbsp;    ✅ Toast Notification   <br/>
- > ✅ Range Slider     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ✅ Show & Hide Password   <br/>
- > ✅ Character Limit     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ✅ Text Typing Effect   <br/><br/>
-
--->
-
