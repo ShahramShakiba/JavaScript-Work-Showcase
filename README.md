@@ -6,6 +6,7 @@
 - Through this ongoing collection of work, I have been able to continuously test and improve my proficiency in JavaScript, ultimately allowing me to grow and develop as a proficient developer in this field.
   
 > Your time and consideration in reviewing my work are greatly appreciated. Please feel free to explore and share your thoughts.
+
  
  ### _List of projects :_ 
  > ✅ Coming Soon Landing Page &nbsp;&nbsp;&nbsp; ✅ Login & Signup Form <br/>
