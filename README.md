@@ -7,7 +7,7 @@
   
 > Your time and consideration in reviewing my work are greatly appreciated. Please feel free to explore and share your thoughts.
 
- 
+
  ### _List of projects :_ 
  > ✅ Coming Soon Landing Page &nbsp;&nbsp;&nbsp; ✅ Login & Signup Form <br/>
  > ✅ Sidebar Menu &nbsp;&nbsp;&nbsp; ✅ Responsive Navigation Bar <br/>
